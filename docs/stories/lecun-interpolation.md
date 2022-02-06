@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yann LeCun, Twitter Wars, and Interpolation
-parent: Projects
+parent: Stories
 nav_order: 1
 has_children: false
 ---
