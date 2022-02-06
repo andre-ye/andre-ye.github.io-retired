@@ -8,7 +8,7 @@ has_children: false
 
 # Polling & Open Data Initiative
 
-Understanding the Function and Impact of Artificial Intelligence in Our Digital Society 
+Exploring open data for our communities
 {: .fs-6 .fw-300 }
 
 ---
