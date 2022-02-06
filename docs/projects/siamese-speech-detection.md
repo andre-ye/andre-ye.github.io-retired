@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Speaker Change Detection
+title: Siamese Speaker Change Detection
 parent: Projects
-nav_order: 3
+nav_order: 50
 has_children: false
 ---
 
-# Speaker Change Detection
+# Siamese Speaker Change Detection
 
 Description
 {: .fs-6 .fw-300 }
