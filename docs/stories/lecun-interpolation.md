@@ -8,7 +8,7 @@ has_children: false
 
 # Yann LeCun, Twitter Wars, and Interpolation
 
-A story of deep learning theory debate and defeat
+A story of deep learning theory debate and changing my mind
 {: .fs-6 .fw-300 }
 
 ---
