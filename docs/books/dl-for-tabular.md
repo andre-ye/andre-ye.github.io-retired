@@ -38,12 +38,14 @@ This book will begin with a rigorous overview of machine learning principles, co
 Page count approximation: 500-600 pages
 
 **Introduction**
-Goal: To set up ground definitions for key terms and ideas, to give the user important context for why the book was written and its goal. 
+
+Chapter Goal: To set up ground definitions for key terms and ideas, to give the user important context for why the book was written and its goal. 
 - What is tabular data? 
 - Why is deep learning for tabular data important? Applications in business, medicine, and other contexts. 
 - Deep learning is not a universal solution. Understand the difference between deep learning, machine learning, and statistics. 
 
 **Chapter 1:  Classical Machine Learning Principles and Methods**
+
 Chapter Goal: To discuss key principles and algorithms of machine learning modeling relevant to working with tabular data and to the rest of the book. 
 - Fundamental principles of modeling – regression/classification, bias/variance trade-off + double deep descent, feature space concept 
 - Metrics and Evaluation (MAE, MSE, AUC, Precision/Recall, F1 Score, Gini Impurity, Entropy) 
@@ -55,6 +57,7 @@ Chapter Goal: To discuss key principles and algorithms of machine learning model
 - Problems with classical machine learning algorithms (not versatile, not automated, difficult to optimize, requires more human intervention) 
 
 **Chapter 2:  Data Preparation Methods**
+
 Chapter Goal: To explore a wide variety of data preparation methods, which will be valuable in using neural networks for tabular data. 
 - Data manipulation methods – loading and manipulation with Pandas and NumPy 
 - Data encoding: categorical data (one-hot encoding, ordinal encoding, target encoding, etc.) and continuous data (quantization, standardization, normalization, etc.) 
@@ -62,6 +65,7 @@ Chapter Goal: To explore a wide variety of data preparation methods, which will 
 - Feature selection and engineering (information gain, variance threshold, statistic-based selection, high-correlation features) 
 
 **Chapter 3: Applying Standard Neural Network Structures to Tabular Data**
+
 Chapter Goal: To understand how neural networks operate and to build successful and complex architectures using standard feedforward layers for tabular data. 
 - Neural network theory crash course and math (feed-forward operation, backpropagation, optimization & metrics) 
 - Building a simple neural network on tabular data with Keras crash course 
@@ -69,18 +73,21 @@ Chapter Goal: To understand how neural networks operate and to build successful 
 - Embedding layers 
 
 **Chapter 4: Applying Convolutional Structures to Tabular Data**
+
 Chapter Goal: To develop a strong understanding of what convolutional layers are and how they can be successfully applied to tabular data. 
 - Convolutional neural network crash course (convolutions, pooling, specialized convolution operations, major convolutional architectures) 
 - 1-Dimensional convolutional neural networks 
 - The DeepInsight Method 
 
 **Chapter 5: Applying Recurrent Structures to Tabular Data**
+
 Chapter Goal: To develop a strong understanding of what recurrent layers are and how they can be successfully applied to both temporal and nontemporal tabular data. 
 - Recurrent neural network crash course (RNNs, LSTMs, GRUs) 
 - Time Series Data 
 - Applications to nontemporal tabular data 
 
 **Chapter 6: Advanced Deep Learning Strategies**
+
 Chapter Goal: To understand advanced deep learning strategies and their applications to the tabular data context. 
 - Autoencoders 
 - Similarity Learning 
@@ -89,6 +96,7 @@ Chapter Goal: To understand advanced deep learning strategies and their applicat
 - Data generation (GAN, VAE) 
 
 **Chapter 7: Applying Transformer Structures to Tabular Data**
+
 Chapter Goal: To develop a familiar understanding of what transformer structures are and to successfully apply available models to tabular data contexts. 
 - Transformer theory crash course 
 - Vanilla Transformer Applications – GPT-2 Example 
@@ -97,6 +105,7 @@ Chapter Goal: To develop a familiar understanding of what transformer structures
 
 
 **Chapter 8: Applying Tree-Based Logic Structures to Tabular Data**
+
 Chapter Goal: To recognize and understand the framework of tree-based deep learning solutions and to successfully apply available models to tabular data contexts. 
 - Tree-based logic theory crash course 
 - GrowNet Model and Method 
@@ -104,6 +113,7 @@ Chapter Goal: To recognize and understand the framework of tree-based deep learn
 - NODE Model and Method 
 
 **Chapter 9: Tabular Data Modeling Case Studies**
+
 Chapter Goal: To see how the theory presented throughout the book operates with real-world datasets with three tabular data machine learning case studies. 
 - Mechanisms of Action Prediction by Laboratory of Innovation Sciences at Harvard 
 - Stock Prediction by Jane Street 
