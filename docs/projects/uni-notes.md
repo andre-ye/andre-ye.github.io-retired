@@ -2,7 +2,7 @@
 layout: default
 title: Uni Notes
 parent: Projects
-nav_order: 1
+nav_order: 100
 has_children: false
 ---
 
@@ -13,4 +13,6 @@ Documenting the college experience
 
 ---
 
-Embed UW notes and TS notes
+<iframe src="https://andre-ye.github.io" width="100%" height="300" style="border:1px solid black;"></iframe>
+
+<iframe src="https://andre-ye.github.io/ts" width="100%" height="300" style="border:1px solid black;"></iframe>
