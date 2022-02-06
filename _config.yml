@@ -70,6 +70,8 @@ aux_links:
     - "https://linkedin.com/in/andre-ye"
   "Blog":
     - "https://andre-ye.medium.com"
+  "Uni Notes Project":
+    - "https://andre-ye.github.io/uni"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
