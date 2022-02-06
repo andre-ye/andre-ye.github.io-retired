@@ -12,6 +12,15 @@ has_children: false
 Versatile Tools to Solve Deep Learning Problems
 {: .fs-6 .fw-300 }
 
+Book #1
+{: .label .label-blue}
+
+Published: November 2021
+{: .label .label-green}
+
+Pages: 451
+{: .label .label-purple}
+
 <details open markdown="block">
   <summary>
     Table of contents
