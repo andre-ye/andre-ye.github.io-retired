@@ -11,7 +11,26 @@ has_children: false
 Understanding the Function and Impact of Artificial Intelligence in Our Digital Society 
 {: .fs-6 .fw-300 }
 
+Book #3
+{: .label .label-blue}
+
+Published: n/a
+{: .label .label-green}
+
+Pages: est 350-400
+{: .label .label-purple}
+
 | This book is in the process of being written, with expected completion in early to mid 2023. |
+
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
