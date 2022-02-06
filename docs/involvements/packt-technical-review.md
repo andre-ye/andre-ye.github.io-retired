@@ -8,9 +8,12 @@ has_children: false
 
 # Packt, Technical Review
 
-stuff
-{: .fs-6 .fw-300 }
-
-| This book is in the process of being written, with expected completion in early to mid 2023. |
-
 ---
+
+I am currently serving as a technical reviewer for Packt. I volunteer time to review book material and test code in the publishing pipeline by Packt, a technical publisher. 
+
+Currently Reviewing:
+- *Building Data Science Solutions with Anaconda*
+
+Books Reviewed:
+- 
