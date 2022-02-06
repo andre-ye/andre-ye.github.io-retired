@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Slit Detect
+title: Foot Process Width Segmentation in Podocytes
 parent: Projects
-nav_order: 2
+nav_order: 1
 has_children: false
 ---
 
-# Slit Detect
+# Foot Process Width Segmentation in Podocytes
 
-Description
+Performed @ the Najafian Lab, UW Medicine
 {: .fs-6 .fw-300 }
 
 ---
