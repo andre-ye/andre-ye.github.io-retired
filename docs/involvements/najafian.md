@@ -11,11 +11,14 @@ has_children: false
 Pathobiology of Kidney Diseases, UW Medicine
 {: .fs-6 .fw-300 }
 
-PI: Bezhad Najafian {: .label }
+PI: Bezhad Najafian 
+{: .label .label-blue}
 
-Project Supervisor: David Smerkous {: .label .label-green}
+Project Supervisor: David Smerkous 
+{: .label .label-green}
 
-Active: March 2020 - Present {: .label .label-purple}
+Active: March 2020 - Present 
+{: .label .label-purple}
 
 ---
 
