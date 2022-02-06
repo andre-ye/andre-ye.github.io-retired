@@ -11,7 +11,25 @@ has_children: false
 Powerful Tools to Solve Common Problems
 {: .fs-6 .fw-300 }
 
+Book #2
+{: .label .label-blue}
+
+Published: n/a
+{: .label .label-green}
+
+Pages: est 500-600
+{: .label .label-purple}
+
 | This book is in the process of being written, with expected completion in late 2022. |
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
