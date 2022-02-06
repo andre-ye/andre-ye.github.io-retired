@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Andre Ye
-description: My personal website.
+title: Uni Notes
+description: Notes from the University of Washington
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://andre-ye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -32,7 +32,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "favicon.png"
+# logo: "/assets/images/favicon.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -66,10 +66,10 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-    "LinkedIn"
-      - "https://linkedin.com/in/andre-ye"
-    "Blog"
-      - "https://andre-ye.medium.com"
+  "Personal Site":
+    - "http://andre-ye.ml"
+  "TS Notes":
+    - "https://andre-ye.github.io/ts"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -94,7 +94,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: false # show or hide edit this page link
+gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "View this page's source code on GitHub"
 gh_edit_repository: "https://github.com/andre-ye/andre-ye.github.io" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
@@ -106,7 +106,7 @@ color_scheme: custom
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking:
+ga_tracking: UA-217348897-1
 ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
