@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Miscellaneous
-nav_order: 100
+title: Stories
+nav_order: 6
 has_children: true
-permalink: /docs/misc
+permalink: /docs/stories
 ---
 
-# Miscellaneous
+# Stories
 
 Stories and Lists
 {: .fs-6 .fw-300 }
