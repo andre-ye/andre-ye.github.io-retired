@@ -11,11 +11,14 @@ has_children: false
 Reimagining Social & Collaborative Systems, Allen School
 {: .fs-6 .fw-300 }
 
-PI: Amy Zhang {: .label }
+PI: Amy Zhang 
+{: .label }
 
-Project Supervisor: Quanze (Jim) Chen {: .label .label-green}
+Project Supervisor: Quanze (Jim) Chen 
+{: .label .label-green}
 
-Active: February 2021 - Present {: .label .label-purple}
+Active: February 2021 - Present 
+{: .label .label-purple}
 
 ---
 
