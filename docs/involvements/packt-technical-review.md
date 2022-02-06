@@ -16,4 +16,6 @@ Currently Reviewing:
 - *Building Data Science Solutions with Anaconda*
 
 Books Reviewed:
-- 
+ 
+
+
