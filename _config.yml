@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Uni Notes
-description: Notes from the University of Washington
+title: Andre Ye
+description: My personal website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://andre-ye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -66,10 +66,10 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Personal Site":
-    - "http://andre-ye.ml"
-  "TS Notes":
-    - "https://andre-ye.github.io/ts"
+  "LinkedIn":
+    - "https://linkedin.com/in/andre-ye"
+  "Blog":
+    - "https://andre-ye.medium.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
