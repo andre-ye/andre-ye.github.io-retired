@@ -15,7 +15,9 @@ Selected Short-form Writings
 
 My [articles](https://andre-ye.medium.com/){:target="_blank"} range widely in topic and scope. I've written hundreds of articles now, covering paper reviews, concept explanations, code demonstrations, topical surveys, and more. For my writing, I was recognized as Top Writer in AI and in Technology by Medium and awarded a Gold and a Silver medal by [KDnuggets](https://www.kdnuggets.com/){:target="_blank"}, a leading data science site with 700k+ visitors monthly.
 
-View a selection of my articles below, organized by topic - chosen because of their popularity, my personal interest, or both! (These links are configured to bypass the Medium subscription paywall.)
+These days, I don't write so many articles due to the competing influence of other work.
+
+View a selection of my articles below, organized by topic - chosen because of their popularity, my personal interest, or both. (These links are configured to bypass the Medium subscription paywall.)
 
 `P` - Popular.
 
