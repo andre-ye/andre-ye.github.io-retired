@@ -8,7 +8,7 @@ permalink: /docs/involvements
 
 # Involvements
 
-My stuff
+Collaborative groups I'm part of
 {: .fs-6 .fw-300 }
 
-I like to write books.
+I am involved with/in a number of groups and organizations. Learn more about them and what I do in each.
