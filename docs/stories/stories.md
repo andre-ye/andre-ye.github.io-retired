@@ -8,7 +8,7 @@ permalink: /docs/stories
 
 # Stories
 
-Stories and Lists
+Anecdotes & Experiences
 {: .fs-6 .fw-300 }
 
 A collection of stories and lists I'd like to think are interesting. 
