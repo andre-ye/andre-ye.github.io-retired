@@ -27,6 +27,6 @@ The [Social Futures Lab](https://social.cs.washington.edu/){:target="_blank"} is
 In the Social Futures Lab, I work on designing an interface to address ambiguity and uncertainty in crowdsourced segmentation problems using Goldilocks principles. Read more about it [here](./projects/segmentation-goldilocks).
 
 See other materials:
-- [Literature Review Notes](https://andre-ye.github.io/docs/research/sfl/lit-review/){:target="_blank"}
-- [Paper Dump](https://andre-ye.github.io/docs/research/sfl/paper-dump/){:target="_blank"}
-- [Random Ideas](https://andre-ye.github.io/docs/research/sfl/random-ideas/){:target="_blank"}
+- [Literature Review Notes](https://andre-ye.github.io/uni/docs/research/sfl/lit-review/){:target="_blank"}
+- [Paper Dump](https://andre-ye.github.io/uni/docs/research/sfl/paper-dump/){:target="_blank"}
+- [Random Ideas](https://andre-ye.github.io/uni/docs/research/sfl/random-ideas/){:target="_blank"}
