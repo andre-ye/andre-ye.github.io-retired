@@ -7,6 +7,7 @@ has_children: false
 ---
 
 # Automating Minds
+{: .no_toc }
 
 Understanding the Function and Impact of Artificial Intelligence in Our Digital Society 
 {: .fs-6 .fw-300 }
