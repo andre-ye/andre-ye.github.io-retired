@@ -7,6 +7,7 @@ has_children: false
 ---
 
 # Modern Deep Learning for Tabular Data
+{: .no_toc }
 
 Powerful Tools to Solve Common Problems
 {: .fs-6 .fw-300 }
