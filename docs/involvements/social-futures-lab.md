@@ -29,4 +29,3 @@ In the Social Futures Lab, I work on designing an interface to address ambiguity
 See other materials:
 - [Literature Review Notes](https://andre-ye.github.io/uni/docs/research/sfl/lit-review/){:target="_blank"}
 - [Paper Dump](https://andre-ye.github.io/uni/docs/research/sfl/paper-dump/){:target="_blank"}
-- [Random Ideas](https://andre-ye.github.io/uni/docs/research/sfl/random-ideas/){:target="_blank"}
