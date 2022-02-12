@@ -34,7 +34,7 @@ It is interesting to ponder the possibility of self-aware networks - not in the 
 
 In this particular case, the loss function would be a weighted combination of the task output performance and the self-aware output performance, like such (binary cross-entropy and cosine similarity are just given as examples of possible specialized loss functions):
 
-$$\text{loss} = \alpha \text{BCE}\left(y_{task pred}, y_{task true}\right) + (1 - \alpha) \text{CosSim}\left(y_{param pred}, y_{true params}\right)$$
+$$\text{loss} = \alpha \cdot \text{BCE}\left(y_{\text{task pred}}, y_{\text{task true}}\right) + (1 - \alpha) \cdot\text{CosSim}\left(y_{\text{param pred}}, y_{\text{true params}}\right)$$
 
 The specific value of $$\alpha$$ can be adjusted over time such that it is high initially and progressively decreases towards $$0.5$$ to give both eventual equal weighting.
 
