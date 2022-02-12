@@ -6,10 +6,8 @@ nav_order: 100
 
 # Random Ideas
 
-Social Futures Lab
-{: .fs-6 .fw-300 }
-
 Unorganized seedlings of ideas, perhaps promising or stupid or both.
+{: .fs-6 .fw-300 }
 
 ---
 
@@ -30,7 +28,11 @@ The traditional scheme for apply a deep neural network to a supervised problem i
 
 ![image](https://user-images.githubusercontent.com/73039742/153722949-0f155d20-c02f-4155-894c-4aec2a9e757f.png)
 
-It is interesting to ponder the possibility of self-aware networks - not in the sense of being able to 
+It is interesting to ponder the possibility of self-aware networks - not in the sense of being conscious or sentient, but rather in the more technical sense of being able to model oneself or to match one's internal state. One potential idea is to add an additional output (i.e. a dual output model) that attempts to predict the parameters of one of the model's layers in addition to a *task output* that performs the actual given task.
+
+![image](https://user-images.githubusercontent.com/73039742/153723038-845e790f-c62d-4158-9f2c-3c0a29ba7a92.png)
+
+If this were to be successful, it would raise interesting questions about the formulation of meta-parameters that parametrize the modeling of themselves, rather than an external phenomena. There are many variations on this type of 'meta-modeling' or 'self-awareness' experiment.
 
 ---
 
