@@ -5,6 +5,7 @@ nav_order: 100
 ---
 
 # Random Ideas
+{: .no_toc}
 
 Unorganized seedlings of ideas, perhaps promising or stupid or both.
 {: .fs-6 .fw-300 }
