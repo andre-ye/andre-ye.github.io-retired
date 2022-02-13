@@ -3,7 +3,7 @@ layout: default
 title: Reading List
 nav_order: 99
 has_children: false
-permalink: /docs/reading-list
+permalink: /reading-list
 ---
 
 # Reading List
@@ -39,5 +39,7 @@ Natural Language Processing
 Miscellaneous
 - [*The Master Algorithm*](https://www.basicbooks.com/titles/pedro-domingos/the-master-algorithm/9780465061921/){:target="_blank"} by Pedro Domingos
 - ["Progressive Neural Architecture Search"](https://arxiv.org/pdf/1712.00559.pdf){:target="_blank"} by Chenxi Liu et al.
+- [A quantum-inspired classical algorithm for recommendation systems](https://arxiv.org/pdf/1807.04271.pdf){:target='_blank"} by Ewin Tang
+
 
 [^1]: ...but do not necessarily endorse or agree with.
