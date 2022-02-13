@@ -60,10 +60,12 @@ Relevant Experience and Skills
 - Wrote 450+ pages worth of content, figures, and code; talked with deep learning paper authors; worked with a team of editors to produce a effective, well-written, marketable book.
 - The book is available for pre-order at Barnes and Noble. Get more book information on its Apress website. The book writing has been completed and will be released March 13, 2022.
 
-### Technical Reviewer for Data Science Books @ Packt Publishing
+### Technical Reviewer
 *November 2021 - Present*
 
-- Testing code, determining the accuracy of author content, and making revisions and suggestions to increase clarity and communication for *Building Data Science Solutions with Anaconda*, an upcoming book published by Packt, a leading information technology publisher.
+- Testing code, determining the accuracy of author content, and making revisions and suggestions to increase
+clarity and communication in data science books. Currently reviewing: *Building Data Science Solutions with
+Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intelligence* by Apress.
 
 ### Data Science Writer and Editor
 *March 2020 - April 2021*
