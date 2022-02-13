@@ -11,6 +11,7 @@ permalink: /docs/cv
 Relevant Experience and Skills
 {: .fs-6 .fw-300 }
 
+*View a compact resume PDF [here](https://andre-ye.github.io/files/personal/Compact_Resume.pdf){:target="_blank"}*.
 
 ---
 
