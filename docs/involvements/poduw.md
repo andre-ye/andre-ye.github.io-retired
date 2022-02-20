@@ -20,5 +20,6 @@ Current projects:
 
 Completed Projects:
 
-Created Resources:
-- [Machine Learning Interpretability Workshop](https://www.kaggle.com/washingtongold/alcohol-love-and-grades-poduw-ml-workshop){:target="_blank"}
+Work:
+- [Machine Learning Interpretability Workshop Slides](https://www.kaggle.com/washingtongold/alcohol-love-and-grades-poduw-ml-workshop){:target="_blank"}
+- [How do college students construct their email IDs?](https://www.kaggle.com/washingtongold/how-do-college-students-construct-their-email-ids){:target="_blank"} *An analysis fusing traditional statistical and visual analysis with deep learning NLP techniques.*
