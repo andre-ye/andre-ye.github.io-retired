@@ -30,6 +30,10 @@ Pages: 451
 {:toc}
 </details>
 
+![Picture of the book](https://andre-ye.github.io/files/books/book-banner.png)
+
+*Taken 3/1/22 at the University of Washington.*
+
 ---
 
 ## Pitch and Introduction
