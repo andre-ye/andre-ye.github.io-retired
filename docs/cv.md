@@ -22,9 +22,7 @@ Relevant Experience and Skills
 - Will work on developing novel & powerful speech deep learning models as a summer research intern with Deepgram.
 
 ### Teaching Assistant @ Allen School of CSE
-- TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer 
-Spr '22
-{: .label .label-blue }
+- TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer `Spr '22`
 
 ### Machine Learning Crowdsourcing Research @ the Social Futures Lab, Allen School of CSE
 *February 2022 - Present*
