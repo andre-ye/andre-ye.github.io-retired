@@ -15,14 +15,23 @@ Relevant Experience and Skills
 
 ---
 
-## Data Science Experience
+## Work Experience
 
-### Machine Learning Crowdsourcing Research @ the Social Futures Lab, Allen School
+### Research Intern @ Deepgram
+*June 2022 - September 2022*
+- Will work on developing novel & powerful speech deep learning models as a summer research intern with Deepgram.
+
+### Teaching Assistant @ Allen School of CSE
+- TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer 
+Spr '22
+{: .label .label-blue }
+
+### Machine Learning Crowdsourcing Research @ the Social Futures Lab, Allen School of CSE
 *February 2022 - Present*
 - The [Social Futures Lab](https://social.cs.washington.edu/){:target="_blank"} works towards reimagining social and collaborative systems to empower people and improve society.
 - Working with PhD student [Quanze (Jim) Chen](https://homes.cs.washington.edu/~cqz/){:target="_blank"} expand Goldilocks principles of crowdsourcing to image-based annotation domains.
 
-### Deep Learning Research @ Najafian Lab, UW Medicine
+### Medical Deep Learning Research @ Najafian Lab, UW Medicine
 *March 2021 - Present*
 
 - The [Najafian Lab for the Pathobiology of Kidney Diseases](https://dlmp.uw.edu/research-labs/najafian){:target="_blank"} in UW Medicine's Department of Laboratory Medicine and Pathology operates multiple projects investigating kidney diseases. The lab brings in computer science students to help realize many of the medical imaging projects, which require computer vision and deep learning.
@@ -30,13 +39,13 @@ Relevant Experience and Skills
 - Worked with teammates responsible for web development to package the developed models in an accessible and efficient application.
 - Assisted with dataset annotation and quality control.
 
-### Analytics @ UW Polling and Open Data Iniative
+<!-- ### Analytics @ UW Polling and Open Data Iniative
 *July 2021 - Present*
 
 - Served as a data analyst for the [Polling and Open Data Initiative](https://poddata.org/){:target="_blank"} at the University of Washington (PODUW), an organization that analyzes and visualizes data relating to local issues, both independently collected and in collaboration with other institutions.
 - Involved in the PODUW leadership team, contributing to the development of PODUW as a major student organization on campus and open data champion in the Seattle region.
 - Advocated for and led the usage of deep learning for analysts in various PODUW projects and committees. Facilitated the integration of insights discovered by deep learning with traditional statistics and visualization methods.
-- Assisted with web development and upkeep.
+- Assisted with web development and upkeep. -->
 
 ### Volunteer Data Scientist @ CoronaWhy
 *April 2020 - June 2020*
