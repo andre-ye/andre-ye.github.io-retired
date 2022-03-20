@@ -2,6 +2,8 @@
 layout: default
 title: Unstructured Ideas
 nav_order: 100
+nav_exclude: true
+search_exclude: true
 ---
 
 # Random Ideas
