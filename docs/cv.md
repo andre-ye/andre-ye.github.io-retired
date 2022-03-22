@@ -142,7 +142,7 @@ ensemble of deep neural network and TabNet models
 ## Technical Skills
 I specialize in using Keras/TensorFlow to build computer vision applications with Python. I also have experience working with generalized deep learning solutions for text, sequence/signal, and tabular data, as well as traditional machine learning modeling and data analysis + visualization.
 
-**Languages**: Proficient - `Python`; Familiar - `SQL`, `HTML` + `CSS` + `JS`, `PHP`, `Java`
+**Languages**: Proficient - `Python`; Familiar - `SQL`, `HTML` + `CSS` + `JS`, `PHP`, `Java`, `Brainfuck`, `LOLCODE`
 
 **Libraries**: `TensorFlow/Keras`, `scikit-learn`, `numpy`, `pandas`, `matplotlib`, `seaborn`, `OpenCV`, `Flask`
 
