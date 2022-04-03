@@ -19,6 +19,8 @@ Welcome to my website! You can find information about my work, projects, interes
 Announcements
 {: .fs-6 .fw-400 }
 
+| **4/3/2022** I will be authoring the course *Data Science for Cybersecurity* with the International Council of Electronic Commerce Consultants (EC-Council). The course is expected to be finished by mid-summer of this year. |
+
 | **3/17/2022** I'm excited to work with [Deepgram](https://deepgram.com/){:target="_blank"} as a research intern this summer! |
 
 | **3/1/2022** Work on [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/) is moving quickly! First drafts for Chapter 2 "Data Preparation and Engineering" and Chapter 4 "Applying Convolutional Structures to Tabular Data" have been completed. This marks the completion of 1/3 of the total 9 chapters. |
