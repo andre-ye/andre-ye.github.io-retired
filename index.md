@@ -19,6 +19,8 @@ Welcome to my website! You can find information about my work, projects, interes
 Announcements
 {: .fs-6 .fw-400 }
 
+| **4/4/2022** I am grateful to announce that my essay "The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale Rider*", an analysis of the role of the cigarette as representing the metaphysics of the wartime state, has been accepted for publication in *The Explicator*! Who says you can't pursue STEM and the humanities at the same time? :) |
+
 | **4/3/2022** I will be authoring the course *Data Science for Cybersecurity* with the International Council of Electronic Commerce Consultants (EC-Council). The course is expected to be finished by mid-summer of this year. |
 
 | **3/17/2022** I'm excited to work with [Deepgram](https://deepgram.com/){:target="_blank"} as a research intern this summer! |
