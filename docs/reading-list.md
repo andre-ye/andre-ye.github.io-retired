@@ -24,8 +24,11 @@ Theory of Deep Learning
 - ["Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets"](https://arxiv.org/pdf/2201.02177.pdf){:target="_blank"} by Alethea Power et al.
 - ["What's HIdden in a Randomly Weighted Neural Network?"](https://arxiv.org/pdf/1911.13299.pdf){:target="_blank"} by Vivek Ramanjuan and Michell Wortsman
 
-Nonhuman Language Modeling and Generation
+Emergent Language
+- ["Compositional Observer Communication Learning from Raw Visual Input"](https://arxiv.org/pdf/1804.02341v1.pdf){:target="_blank"} by Edward Choi, Angeliki Lazaridou, Nando de Freitas
 - ["Emergence of Grounded Compositional Language in Multi-Agent Populations"](https://arxiv.org/abs/1703.04908){:target="_blank"} by Igor Mordatch and Pieter Abbeel
+- ["On the Spontaneous Emergence of Discrete and Compositional Signals"](https://aclanthology.org/2020.acl-main.433.pdf){:target="_blank"} by Nur Geffen Lan, Emmanuel Chemla, and Shane Steinert-Threlkel
+- ["Learning Emergent Discrete Message Communication for Cooperative Reinforcement Learning"](https://arxiv.org/pdf/2102.12550.pdf) by Sheng Li, Yutai Zhou, Ross Allen, Mykel J. Kochenderfer
 - ["AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms"](https://arxiv.org/pdf/1709.05703.pdf){:target="_blank"} by Kory Becker and Justin Gottschlich
 
 Bias and Fairness
