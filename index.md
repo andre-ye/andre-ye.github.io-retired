@@ -19,6 +19,8 @@ Welcome to my website! You can find information about my work, projects, interes
 Announcements
 {: .fs-6 .fw-400 }
 
+| **4/18/2022** My article "The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale RIder*" has been [published](https://www.tandfonline.com/doi/full/10.1080/00144940.2022.2063706){:target="_blank"} in *The Explicator*! |
+
 | **4/13/2022** I have completed technical review of the Apress book *Deep Learning Model Optimization with Neural Network Intelligence*. Keep your eye out for its release soon! |
 
 | **4/10/2022** I have completed technical review of the Packt book *Building Data Science Solutions with Anaconda*. Keep your eye out for its release soon! |
