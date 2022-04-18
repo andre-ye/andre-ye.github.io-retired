@@ -149,3 +149,9 @@ I specialize in using Keras/TensorFlow to build computer vision applications wit
 **Skills**: `computer vision`, `NLP`, `self-supervised learning`, `transfer learning`, `deep learning model compression`, `machine learning modeling`, `ML explainability`, `data mining`, `data analysis`, `data visualization`, `data collection`
 
 **Other**: $$\LaTeX$$, `Jupyter`
+
+---
+
+## Miscellaneous
+
+Andre Ye (2022). The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale Rider*, The Explicator, DOI: 10.1080/00144940.2022.2063706. [https://doi.org/10.1080/00144940.2022.2063706](https://doi.org/10.1080/00144940.2022.2063706).
