@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: default
 title: Stories
 nav_order: 6
 has_children: true
 permalink: /docs/stories
----
+--- -->
 
 # Stories
 
