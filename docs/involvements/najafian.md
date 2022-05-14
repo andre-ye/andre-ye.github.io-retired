@@ -2,7 +2,7 @@
 layout: default
 title: Najafian Lab
 parent: Involvements
-nav_order: 1
+nav_order: 11
 has_children: false
 ---
 
@@ -17,7 +17,7 @@ PI: Bezhad Najafian
 Project Supervisor: David Smerkous 
 {: .label .label-green}
 
-Active: March 2020 - Present 
+Active: March 2020 - June 2022
 {: .label .label-purple}
 
 ---
