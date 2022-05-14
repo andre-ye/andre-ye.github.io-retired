@@ -22,7 +22,7 @@ Active: March 2020 - June 2022
 
 ---
 
-| I am applying to present the Foot Process Width project with David Smerkous at the UW Undergraduate Research Symposium. |
+| I will be presenting on the Foot Process Width project with David Smerkous at the UW Undergraduate Research Symposium. |
 
 [Najafian Lab research](https://dlmp.uw.edu/research-labs/najafian){:target="_blank"} strives to better understand pathobiology of kidney diseases. Podocytes are terminally differentiated cells with limited regenerative capacity. These cells play crucial role in preservation of structure and function of glomeruli (blood filters in the kidney). Injury and loss of these cells is directly or indirectly involved in development or progression of majority of chronic kidney diseases. We study podocyte injury in various kidney diseases, but largely in diabetic nephropathy and Fabry nephropathy.
 
