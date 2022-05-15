@@ -13,8 +13,8 @@ Talks and presentations I've given
 
 
 ## Research Presentations
-- "Emergent Language: Independent Development of Human-Like Language by AI Agents". Research performed with Interactive Intelligence. Discovering AI @ UW Conference, May 23rd. Poster presentation.
-- "A Novel Approach to Segment Specialized Annotations in Electron Microscopy Images of Glomerular Podocytes". Research performed with Najafian Lab for the Pathobiology of Kidney Diseases, UW Medicine. 25th Undergraduate Research Symposium at the University of Washington, May 20th. Oral presentation. [Session Proceedings](https://expo.uw.edu/expo/apply/635/proceedings/offering_session/1374){:target="_blank"}.
+- "Emergent Language: Independent AI Development of Human-Like Language". Research performed with Interactive Intelligence. Discovering AI @ UW Conference, May 23rd. Poster presentation.
+- "A Novel Approach to Segment Specialized Annotations in Electron Microscopy Images of Glomerular Podocytes". Research performed with Najafian Lab for the Pathobiology of Kidney Diseases, UW Medicine. 25th Undergraduate Research Symposium at the University of Washington, May 20th. Oral presentation. [Session Proceedings](https://expo.uw.edu/expo/apply/635/proceedings/offering_session/1374){:target="_blank"}. [Slides](https://andre-ye.github.io/files/najafian/URP%20Presentation.pdf){:target="_blank"}.
 
 ## Journal Clubs
 
