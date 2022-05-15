@@ -54,27 +54,27 @@ Relevant Experience and Skills
 
 ---
 
-## Publishing and Writing
-### Author of *Deep Learning for Tabular Data*
+## Publications
+### *Deep Learning for Tabular Data*
 *November 2021 - Present*
 
 - Currently writing a second book published with Apress, an division of Springer Nature that specializes in IT publishing. Deep Learning for Tabular Data attempts to address a critical gap in coverage of recent advancements in the application of deep learning for tabular data.
 
-### Author of *Modern Deep Learning Design and Applications*
+### *Modern Deep Learning Design and Applications*
 *May 2021 - December 2021*
 
 - *Modern Deep Learning Design and Applications* aims to reframe how deep learning concepts and implementation are presented to be focused more on creative design rather than specific concepts and code. Learning how to design deep learning solutions rather than tying oneself to specific concepts allows one to effectively approach a wider variety of problems.
 - Wrote 450+ pages worth of content, figures, and code; talked with deep learning paper authors; worked with a team of editors to produce a effective, well-written, marketable book.
 - The book is available for pre-order at Barnes and Noble. Get more book information on its Apress website. The book writing has been completed and will be released March 13, 2022.
 
-### Technical Reviewer
+### Technical Review
 *November 2021 - Present*
 
 - Testing code, determining the accuracy of author content, and making revisions and suggestions to increase
 clarity and communication in data science books. Currently reviewing: *Building Data Science Solutions with
 Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intelligence* by Apress.
 
-### Data Science Writer and Editor
+### Independent Open-Access Articles
 *March 2020 - April 2021*
 
 - Awarded the Gold and Silver Medal from KDnuggets, a leading data science site with over 700k+ visitors monthly, for writing two of the most top-viewed and top-shared articles on the platform.
