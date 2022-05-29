@@ -12,12 +12,14 @@ permalink: /
 My personal website
 {: .fs-6 .fw-300 }
 
-Welcome to my website! You can find information about my work, projects, interests, and other topics here.
+Welcome to my website! You can find information about my work, projects, interests, and more here.
 
 ---
 
 Announcements
 {: .fs-6 .fw-400 }
+
+| **5/28/2022** I will be leaving the Najafian Lab at the University of Washington after one year and three months! Thank you to Dr. Behzad Najafian and David Smerkous for making my experience at the lab awesome. |
 
 | **4/18/2022** My article "The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale RIder*" has been [published](https://www.tandfonline.com/doi/full/10.1080/00144940.2022.2063706){:target="_blank"} in *The Explicator*! |
 
