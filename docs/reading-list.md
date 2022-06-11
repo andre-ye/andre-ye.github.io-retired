@@ -11,7 +11,16 @@ permalink: /reading-list
 A collection of papers, articles, books, literature, and poetry I recommend[^1]
 {: .fs-6 .fw-300 }
 
+By field: [AI](#ai), [Philosophy](#philosophy), [Fiction](#fiction)
+
+---
+
+## AI
+
 *See an additional curated list of great papers discussed in my first book [here](https://andre-ye.github.io/docs/books/modern-deep-learning/#case-study-papers){:target="_blank"}.*
+
+Currently Reading
+- ["The Modern Mathematics of Deep Learning"](https://arxiv.org/pdf/2105.04026.pdf){:target="_blank"} by Julius Berner et al.
 
 Theory of Deep Learning
 - ["Learning in High Dimension Always Amounts to Extrapolation"](https://arxiv.org/pdf/2110.09485.pdf){:target="_blank"} by Randall Balestriero, Jerome Pesenti, and Yann LeCun
@@ -52,13 +61,61 @@ Miscellaneous
 - [*The Master Algorithm*](https://www.basicbooks.com/titles/pedro-domingos/the-master-algorithm/9780465061921/){:target="_blank"} by Pedro Domingos
 - ["Progressive Neural Architecture Search"](https://arxiv.org/pdf/1712.00559.pdf){:target="_blank"} by Chenxi Liu et al.
 - [A quantum-inspired classical algorithm for recommendation systems](https://arxiv.org/pdf/1807.04271.pdf){:target='_blank"} by Ewin Tang
+
+---
+
+## Philosophy
+Currently Reading
+- *Aesthetics, Method and Epistemology: Essential Works of Foucault*, edited by James D. Faubion
+
+Read
+- *The Communist Manifesto* by Karl Marx & Frederich Engels
+- *Capital: A Critique of Political Economy* by Karl Marx
+- *Simulacra and Simulation* by Jean Baudrilliard
+- *Discipline and Punish* by Michel Foucault
+- ["Ideology and Ideological State Apparatuses"](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm){:target="_blank"} by Louis Althusser
+- [*Marxism and Literature*](http://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfm9zBHlJ6w8.pdf){:target="_blank"} by Raymond Williams
+- [*Keywords*](http://s3.amazonaws.com/arena-attachments/1385668/2a0d6d0b045feef2adb6ae76ec9a2c92.pdf?1509502303){:target="_blank"} by Raymond Williams
+- ["A Cyborg Manifesto"](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf){:target="_blank"} by Donna Haraway
 - [*The Selfish Gene*](https://ia803102.us.archive.org/4/items/richarddawkinstheselfishgene30thanniversaryeditionwithanewintroductionbytheauthor/RICHARD%20DAWKINS%20THE%20SELFISH%20GENE%20%2030TH%20ANNIVERSARY%20EDITION%20WITH%20A%20NEW%20INTRODUCTION%20BY%20THE%20AUTHOR.pdf){:target="_blank"} by Richard Dawkins
-- [*Dude, You're a Fag: Masculinity and Sexuality in High School*](https://www.ucpress.edu/book/9780520271487/dude-youre-a-fag){:target="_blank"} by CJ Pascoe
+- [*Philosophy: Who Needs It?*](https://www.kingauthor.net/books/Ayn%20Rand/Philosophy%20Who%20Needs%20It/Philosophy%20Who%20Needs%20It%20-%20Ayn%20Rand.pdf){:target="_blank"} by Ayn Rand
+
+---
+
+## Fiction
+
+Currently reading
+- *Infinite Jest* by David Wallace
+
+Novel
+- *Crime and Punishment* by Fyodor Dostoevsky
+- *A Clockwork Orange* by Anothony Burgess
+- *Never Let Me Go* by Kazuo Ishiguro
+- *Klara and the Sun* by Kazuo Ishiguro
+- [*Quarantine*](http://rahulmehtawriter.com/quarantine/){:target="_blank"} by Rahul Mehta
+- *Call Me By Your Name* by Andre Aciman
+
+Novella/Short Story
 - ["Pale Horse, Pale Rider"](https://ia801602.us.archive.org/2/items/in.ernet.dli.2015.184599/2015.184599.Pale-Horse-pale-Rider.pdf){:target="_blank"} by Katherine Anne Porter
+- ["Bloodchild"](https://static1.squarespace.com/static/574dd51d62cd942085f12091/t/5ae0e84e562fa74f9c6773a5/1524688975128/octavia-butler-bloodchild.pdf){:target="_blank"} by Octavia Butler
+
+Poetry
 - ["Gym Crush"](https://fourwayreview.com/gym-crush-by-josh-tvrdy/){:target="_blank"} by Josh Tvrdy
 - ["The Out & Proud Boy Passes the Baseball Boy"](https://courtgreen.net/issue-16/josh-tvrdy){:target="_blank"} by Josh Tvrdy
-- [*Quarantine*](http://rahulmehtawriter.com/quarantine/){:target="_blank"} by Rahul Mehta
-- ["A Cyborg Manifesto"](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf){:target="_blank"} by Donna Haraway
-- [*Philosophy: Who Needs It?*](https://www.kingauthor.net/books/Ayn%20Rand/Philosophy%20Who%20Needs%20It/Philosophy%20Who%20Needs%20It%20-%20Ayn%20Rand.pdf){:target="_blank"} by Ayn Rand
+
+---
+
+## Miscellaneous
+
+Currently Reading
+- *What is Meaning? Fundamnetals of Formal Semantics*
+
+
+Read
+- *The Gulag Archipelago* by Aleksandr Solzhenitsyn
+- [*Dude, You're a Fag: Masculinity and Sexuality in High School*](https://www.ucpress.edu/book/9780520271487/dude-youre-a-fag){:target="_blank"} by CJ Pascoe
+
+---
+
 
 [^1]: ...but do not necessarily endorse or agree with.
