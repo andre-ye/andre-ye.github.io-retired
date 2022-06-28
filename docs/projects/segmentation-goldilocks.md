@@ -28,4 +28,5 @@ To address these sources of uncertainty, we can look towards the *Goldilocks met
 
 In this project, I attempt to 'translate' these principles to a segmentation domain, in which the target annotation is a spatial segmentation map.
 
-- [Slides](https://andre-ye.github.io/files/sfl/Goldilocks for Images.pdf){:target="_blank"} I gave at a lab meeting as an introduction to the idea
+- [Goldilocks for Images](https://andre-ye.github.io/files/sfl/Goldilocks for Images.pdf){:target="_blank"}. Given as an introduction during a lab meeting to the idea of uncertainty representation and theorizing visual uncertainty.
+- [Medical Uncertainty Annotation](https://andre-ye.github.io/files/sfl/Medical Uncertainty Annotation.pdf){:target="_blank"}. Given as an update during a lab meeting to the chosen domain and demoing the application.
