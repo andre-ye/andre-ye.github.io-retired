@@ -13,6 +13,8 @@ A collection of papers, articles, books, literature, and poetry I recommend[^1]
 
 By field: [AI](#ai), [Philosophy](#philosophy), [Fiction](#fiction)
 
+View my writings and notes on books [here](https://andre-ye.github.io/pub/){:target="_blank"}.
+
 ---
 
 ## AI
