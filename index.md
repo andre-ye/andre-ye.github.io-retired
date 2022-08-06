@@ -6,22 +6,28 @@ description: "My personal website"
 permalink: /
 ---
 
-<img src="https://andre-ye.github.io/assets/indoors-window-cropped.jpg" alt="profile photo" style="float: left; margin-right: 15px; max-width: 100px; height: auto;">
+<img src="https://andre-ye.github.io/assets/images/indoors-window-cropped.jpg" alt="profile photo" style="float: left; margin-right: 15px; max-width: 100px; height: auto;">
 
 # Andre Ye
 {: .fs-9}
-
+<!-- 
 My personal website
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 } -->
 
-Welcome to my website! You can find information about my work, projects, interests, and more here.
+Welcome to my personal website! You can find information about my work, projects, interests, and more here.
+
+[Quippy introduction here].
 
 ---
 
-Announcements
+Updates
 {: .fs-6 .fw-400 }
 
-| **5/28/2022** I will be leaving the Najafian Lab at the University of Washington after one year and three months! Thank you to Dr. Behzad Najafian and David Smerkous for making my experience at the lab awesome. |
+| **8/6/2022** My book co-author Alec Bunn and I are starting work on my upcoming third book, [Artificial Intelligence: An Accessible Approach]. The book is aimed at a general audience and attempts to help address the increasingly problematic AI literacy gap by providing knowledge of the ideas, structures, and algorithms which power digital and physical applications everywhere. |
+
+| **7/30/2022** My book co-author Andy Wang and I have finished all twelve chapters for my upcoming second book, [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/). We anticipate to finish our second reviews and to hand off the manuscript to the production team by mid-September. |
+
+| **5/28/2022** I will be leaving the Najafian Lab at the University of Washington after one year and three months! Thank you to Dr. Behzad Najafian and David Smerkous for an awesome experience. |
 
 | **4/18/2022** My article "The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale RIder*" has been [published](https://www.tandfonline.com/doi/full/10.1080/00144940.2022.2063706){:target="_blank"} in *The Explicator*! |
 
@@ -29,9 +35,9 @@ Announcements
 
 | **4/10/2022** I have completed technical review of the Packt book *Building Data Science Solutions with Anaconda*. Keep your eye out for its release soon! |
 
-| **4/4/2022** I am grateful to announce that my essay "The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale Rider*", an analysis of the role of the cigarette as representing the metaphysics of the wartime state, has been accepted for publication in *The Explicator*! Who says you can't pursue STEM and the humanities at the same time? :) |
+| **4/4/2022** I am grateful to announce that my essay "The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale Rider*", an analysis of the role of the cigarette as representing the metaphysics of the wartime state, has been accepted for publication in *The Explicator*. |
 
-| **4/3/2022** I will be authoring the course *Data Science for Cybersecurity* with the International Council of Electronic Commerce Consultants (EC-Council). The course is expected to be finished by mid-summer of this year. |
+<!-- | **4/3/2022** I will be authoring the course *Data Science for Cybersecurity* with the International Council of Electronic Commerce Consultants (EC-Council). The course is expected to be finished by mid-summer of this year. | -->
 
 | **3/17/2022** I'm excited to work with [Deepgram](https://deepgram.com/){:target="_blank"} as a research intern this summer! |
 
