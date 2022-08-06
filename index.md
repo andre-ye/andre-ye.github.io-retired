@@ -6,13 +6,21 @@ description: "My personal website"
 permalink: /
 ---
 
-<img src="https://andre-ye.github.io/assets/images/indoors-window-cropped.jpg" alt="profile photo" style="float: left; margin-right: 15px; max-width: 100px; height: auto;">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+
+<img src="https://andre-ye.github.io/assets/images/indoors-window-cropped.jpg" alt="profile photo" style="float: left; margin-right: 15px; max-height: 120px; width: auto;">
 
 # Andre Ye
 {: .fs-9}
 <!-- 
 My personal website
 {: .fs-6 .fw-300 } -->
+
+
 
 Welcome to my personal website! You can find information about my work, projects, interests, and more here.
 
