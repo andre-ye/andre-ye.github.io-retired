@@ -2,14 +2,14 @@
 layout: default
 title: Modern Deep Learning for Tabular Data
 parent: Books
-nav_order: 2
+nav_order: 6
 has_children: false
 ---
 
 # Modern Deep Learning for Tabular Data
 {: .no_toc }
 
-Powerful Tools to Solve Common Problems
+Novel Methods to Solve Common Problems
 {: .fs-6 .fw-300 }
 
 Book #2
