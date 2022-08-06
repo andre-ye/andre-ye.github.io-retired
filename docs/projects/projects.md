@@ -8,7 +8,7 @@ permalink: /docs/projects
 
 # Projects
 
-Efforts towards advancing the state of `x`
-{: .fs-6 .fw-300 }
+<!-- Efforts towards advancing the state of `x`
+{: .fs-6 .fw-300 } -->
 
-I'm working on a number of current projects, which vary widely in scope but all attempt to advance the state of *something* -- be it crowdsourcing methods for rich media annotations, improving the state of cell segmentation, or encouraging the open-sourcing of student work and knowledge.
+I'm am working/have worked on a number of interesting projects, ranging in focus and scope.
