@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Articles
-nav_order: 3
+nav_order: 98
 has_children: false
 permalink: /docs/articles
 ---
