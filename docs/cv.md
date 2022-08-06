@@ -11,26 +11,37 @@ permalink: /docs/cv
 Relevant Experience and Skills
 {: .fs-6 .fw-300 }
 
-*View a compact resume PDF [here](https://andre-ye.github.io/files/personal/Compact_Resume.pdf){:target="_blank"}*.
+*View a compact resume PDF [here](https://andre-ye.github.io/files/personal/Ye_Andre_Resume_22_23_cycle.pdf){:target="_blank"}*.
 
 ---
 
-## Work Experience
+## Research Work
 
 ### Research Intern @ Deepgram
 *June 2022 - September 2022*
-- Will work on developing novel & powerful speech deep learning models as a summer research intern with Deepgram.
 
-### Teaching Assistant @ Allen School of CSE
-- TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer `Spr '22`
+[Deepgram](https://deepgram.com/){:target="_blank"} develops powerful deep speech recognition APIs for developers. At Deepgram, I developed novel
+curriculum training infrastructure and practices to target data contamination, correct problematic model
+behavior, significantly improve convergence speed, and improve performance in some cases while training large
+speech models on millions of hours of audio
 
-### Machine Learning Crowdsourcing Research @ the Social Futures Lab, Allen School of CSE
+### HCI & ML Research @ Social Futures Lab, Allen School of CSE
 *February 2022 - Present*
-- The [Social Futures Lab](https://social.cs.washington.edu/){:target="_blank"} works towards reimagining social and collaborative systems to empower people and improve society.
-- Working with PhD student [Quanze (Jim) Chen](https://homes.cs.washington.edu/~cqz/){:target="_blank"} expand Goldilocks principles of crowdsourcing to image-based annotation domains.
 
-### Medical Deep Learning Research @ Najafian Lab, UW Medicine
-*March 2021 - Present*
+The [Social Futures Lab](https://social.cs.washington.edu/){:target="_blank"} works towards reimagining social and collaborative systems to empower people and improve society. I am researching a novel data
+annotation protocol for high-stakes image segmentation problems like pathology and medical biology to directly mark uncertainty
+into the data itself rather than inferring uncertainty from model outputs second-hand, the objective being to
+develop more robust and self-aware computer vision models.
+
+### Research Lead @ Interactive Intelligence
+*January 2022 - Present*
+
+Interactive Intelligence (I2) is an independent student research group at the UW focusing on developing
+human-like cognition in deep learning models. Leading the Emergent Language group to build deep learning
+models which develop “their own” novel system of language generation and interpretation.
+
+### Deep Learning Research @ Najafian Lab, UW Medicine
+*March 2021 - May 2022*
 
 - The [Najafian Lab for the Pathobiology of Kidney Diseases](https://dlmp.uw.edu/research-labs/najafian){:target="_blank"} in UW Medicine's Department of Laboratory Medicine and Pathology operates multiple projects investigating kidney diseases. The lab brings in computer science students to help realize many of the medical imaging projects, which require computer vision and deep learning.
 - Worked on developing a segmentation pipeline to visually mark features on electron microscopy images of cells. Worked with project teammates to utilize various deep learning practices well-informed by the surrounding biological/medical context; develop a responsible data collection, annotation and modeling pipeline; and innovate deep learning new practices in the medical image field to more effectively model biological phenomena.
@@ -45,36 +56,16 @@ Relevant Experience and Skills
 - Advocated for and led the usage of deep learning for analysts in various PODUW projects and committees. Facilitated the integration of insights discovered by deep learning with traditional statistics and visualization methods.
 - Assisted with web development and upkeep. -->
 
-### Volunteer Data Scientist @ CoronaWhy
-*April 2020 - June 2020*
+## Publishing and Writing Work
 
-- CoronaWhy is an international group of volunteers working to analyze and model COVID-19 data to aid the pandemic. Worked with fellow team members in a highly collaborative setting.
-- Performed textual analysis and visualization on communications for greater internal efficiency.
-- Assisted the CoronaWhy team in developing a transformer-based model for the Epidemic Questioning Answering dataset that answers COVID-19 related questions by extracting answers from the relevant literature.
-
----
-
-## Publications
-### *Deep Learning for Tabular Data*
-*November 2021 - Present*
-
-- Currently writing a second book published with Apress, an division of Springer Nature that specializes in IT publishing. Deep Learning for Tabular Data attempts to address a critical gap in coverage of recent advancements in the application of deep learning for tabular data.
-
-### *Modern Deep Learning Design and Applications*
-*May 2021 - December 2021*
-
-- *Modern Deep Learning Design and Applications* aims to reframe how deep learning concepts and implementation are presented to be focused more on creative design rather than specific concepts and code. Learning how to design deep learning solutions rather than tying oneself to specific concepts allows one to effectively approach a wider variety of problems.
-- Wrote 450+ pages worth of content, figures, and code; talked with deep learning paper authors; worked with a team of editors to produce a effective, well-written, marketable book.
-- The book is available for pre-order at Barnes and Noble. Get more book information on its Apress website. The book writing has been completed and will be released March 13, 2022.
-
-### Technical Review
+### Technical Reviewer
 *November 2021 - Present*
 
 - Testing code, determining the accuracy of author content, and making revisions and suggestions to increase
 clarity and communication in data science books. Currently reviewing: *Building Data Science Solutions with
 Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intelligence* by Apress.
 
-### Independent Open-Access Articles
+### Data Science Writer
 *March 2020 - April 2021*
 
 - Awarded the Gold and Silver Medal from KDnuggets, a leading data science site with over 700k+ visitors monthly, for writing two of the most top-viewed and top-shared articles on the platform.
@@ -82,22 +73,19 @@ Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intell
 - Contracted to write data science articles for machine learning companies and organizations like Neptune.AI.
 - Served as Editor of Data Science and AI Content of The Data-Driven Investor, an online publication that delivers content to several dozen thousand readers in 95 countries daily.
 
----
+## Miscellaneous
 
-## Projects
-### Political Thought Bibliography Dataset
-*July 2021 - September 2021*
+### Teaching Assistant @ Allen School of CSE
+*March 2022 - June 2022*
 
-- Worked with a collaborator to develop a bibliography of political thought from thinkers dating back to Plato. The ultimate goal of such a dataset is to provide the data-level support for deep learning models that are able to comprehend and connect with the diversity and depth of human thought.
-- Developed scripts to collect speeches, books, and essay content in an automated fashion in accordance with copyright law. Cleaned and organized the dataset into a machine-readable, clean form.
-- Engaged with the data science community to explore possible tasks and directions to work with the datase
+TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer, Spring Quarter. Graded homework, hosted office hours, taught weekly sections.
 
-### Critiq, Peer Revision Platform
-- Designed and coded Critiq, a peer revision platform that matches students’ essays for quick and effective revision, with HTML, CSS, JS, and PHP. Hosted with Heroku, used MySQL database and innoDB engine. Employed a variety of database and site security methods. Designed code to efficiently process essays.
-- Built and deployed a machine learning recommendation system to best match users’ essays, optimizing performance with constraints on response time and computing capability. Used a subset-based matrix factorization to predict the ratings matched users would give each other.
-- Embedded trackers into site code to measure user acquisition and retention; used data analysis and machine learning methods to analyze visitor and user data.
+### Volunteer Data Scientist @ CoronaWhy
+*April 2020 - June 2020*
 
----
+- CoronaWhy is an international group of volunteers working to analyze and model COVID-19 data to aid the pandemic. Worked with fellow team members in a highly collaborative setting.
+- Performed textual analysis and visualization on communications for greater internal efficiency.
+- Assisted the CoronaWhy team in developing a transformer-based model for the Epidemic Questioning Answering dataset that answers COVID-19 related questions by extracting answers from the relevant literature.
 
 ## Competitions and Awards
 
@@ -129,29 +117,15 @@ ensemble of deep neural network and TabNet models
 - Used several machine learning methods, including gradient-boosted trees and model explainability techniques. Visualized model findings and data patterns.
 - Was selected as one of two nominees to represent our region in international judging by NASA, ESA, and other international space agencies.
 
----
-
 ## Academics
-- Major in Computer Science, minor in Philosophy
+- Double major in philosophy and computer science.
+- 4.0 cumulative GPA.
 - *[Early Entrance Program](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"}*. Skipped high school, entered university at 15.
-- *Member of the competitive [Lavin Entrepreneurship Program](https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/undergraduate-entrepreneurship/lavin-entrepreneurship-program/){:target="_blank"}*. Hosted within the Foster School of Business, the Lavin Program connects students to a community of like-minded students, local entrepreneurs, and startups to develop entrepreneurial potential and acumen. At Lavin, I explore AI and data science opportunities in startups.
-- *Analyst and leadership in the UW [Polling & Open Data Initiative](https://poddata.org/){:target="_blank"}*. Involved in data analysis, guiding multiple projects, and working with organizations and businesses to advance the state of open data and knowledge.
-
----
 
 ## Technical Skills
-I specialize in using Keras/TensorFlow to build computer vision applications with Python. I also have experience working with generalized deep learning solutions for text, sequence/signal, and tabular data, as well as traditional machine learning modeling and data analysis + visualization.
 
-**Languages**: Proficient - `Python`; Familiar - `SQL`, `HTML` + `CSS` + `JS`, `PHP`, `Java`, `Brainfuck`, `LOLCODE`
+**Languages**: Proficient - Python; Familiar - SQL, HTML + CSS + JS, PHP, Java, Brainfuck
 
-**Libraries**: `TensorFlow/Keras`, `scikit-learn`, `numpy`, `pandas`, `matplotlib`, `seaborn`, `OpenCV`, `Flask`
+**Libraries**: Proficient - TensorFlow + Keras, scikit-learn, numpy, pandas, matplotlib, seaborn, OpenCV; Familiar - PyTorch, Flask
 
-**Skills**: `computer vision`, `NLP`, `self-supervised learning`, `transfer learning`, `deep learning model compression`, `machine learning modeling`, `ML explainability`, `data mining`, `data analysis`, `data visualization`, `data collection`
-
-**Other**: $$\LaTeX$$, `Jupyter`
-
----
-
-## Miscellaneous
-
-Andre Ye (2022). The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale Rider*, The Explicator, DOI: 10.1080/00144940.2022.2063706. [https://doi.org/10.1080/00144940.2022.2063706](https://doi.org/10.1080/00144940.2022.2063706).
+**Other**: $$\LaTeX$$, Jupyter, bash, git, Linux
