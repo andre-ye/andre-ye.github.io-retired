@@ -23,9 +23,9 @@ My personal website
 
 
 Welcome to my personal website! You can find information about my work, projects, interests, and more here.
-{: .fs-3 .fw-300 }
+{: .fs-5 .fw-300 }
 
-**👋 Hey there! I'm Andre.** I am a philosophy and computer science major at the University of Washington. I 
+**👋 Hey there! I'm Andre.** I am a philosophy and computer science major at the University of Washington. I am interested in exploring the epistemology of deep learning algorithms, particularly with respect to 'deep pedagogy' and the potential of such models to develop subjectivity, disagreement, opinions, and bias. Previously, I built deep computer vision models for medical pathology at the Najafian Lab. Currently, I am researching a novel data annotation protocol at the Social Futures Lab which directly structures domain uncertainty into the markup and therefore hopefully a) reduces annotation uncertainty and b) allows for more robust model training. I am also looking forward to research in the philosophy department in the near future. Additionally, I enjoy writing essays and books on a variety of topics in artificial intelligence, philosophy, and literature. My email is `andreye at uw dot edu`.
 
 ---
 
