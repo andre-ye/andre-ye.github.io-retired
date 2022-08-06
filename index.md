@@ -6,6 +6,8 @@ description: "My personal website"
 permalink: /
 ---
 
+<img src="https://andre-ye.github.io/assets/indoors-window-cropped.jpg" alt="profile photo" style="float: left; margin-right: 15px; max-width: 100px; height: auto;">
+
 # Andre Ye
 {: .fs-9}
 
