@@ -23,8 +23,9 @@ My personal website
 
 
 Welcome to my personal website! You can find information about my work, projects, interests, and more here.
+{: .fs-3 .fw-300 }
 
-[Quippy introduction here].
+**👋 Hey there! I'm Andre.** I am a philosophy and computer science major at the University of Washington. I 
 
 ---
 
@@ -46,6 +47,8 @@ Updates
 | **4/4/2022** I am grateful to announce that my essay "The Wartime State and the Cigarette: Darkness and Temporality in *Pale Horse, Pale Rider*", an analysis of the role of the cigarette as representing the metaphysics of the wartime state, has been accepted for publication in *The Explicator*. |
 
 <!-- | **4/3/2022** I will be authoring the course *Data Science for Cybersecurity* with the International Council of Electronic Commerce Consultants (EC-Council). The course is expected to be finished by mid-summer of this year. | -->
+
+| **3/26/2022** I will be TAing for CSE 163 (Intermediate Data Programming) with Prof. Hunter Schafer this spring quarter. |
 
 | **3/17/2022** I'm excited to work with [Deepgram](https://deepgram.com/){:target="_blank"} as a research intern this summer! |
 
