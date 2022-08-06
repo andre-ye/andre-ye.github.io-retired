@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Automating Minds
+title: Artificial Intelligence: An Accessible Approach
 parent: Books
-nav_order: 3
+nav_order: 4
 has_children: false
 ---
 
-# Automating Minds
+# Artificial Intelligence: An Accessible Approach
 {: .no_toc }
 
-Understanding the Function and Impact of Artificial Intelligence in Our Digital Society 
-{: .fs-6 .fw-300 }
+<!-- Understanding the Function and Impact of Artificial Intelligence in Our Digital Society 
+{: .fs-6 .fw-300 } -->
 
 Book #3
 {: .label .label-blue}
