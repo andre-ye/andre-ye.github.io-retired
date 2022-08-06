@@ -6,7 +6,7 @@ has_children: false
 permalink: /docs/articles
 ---
 
-# Articles
+# Articles 
 
 Selected Short-form Writings
 {: .fs-6 .fw-300 }
