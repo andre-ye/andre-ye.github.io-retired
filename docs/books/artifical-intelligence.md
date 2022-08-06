@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificial Intelligence: An Accessible Approach
+title: Artificial Intelligence - An Accessible Approach
 parent: Books
 nav_order: 4
 has_children: false
