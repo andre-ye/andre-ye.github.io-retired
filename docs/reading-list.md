@@ -152,12 +152,13 @@ Novella/Short Story
 ---
 
 ## Film
-- *Interstellar*
-- *A Quiet Place*
+- *2001: A Space Odyssey* - my favorite film
+- *Interstellar* - a very good film
+- *A Quiet Place* - entertaining and a good scare
 - *Call Me By Your Name*
-- *Parasite*
+- *Parasite* - a very good film
 - *Snowpiercer*
-- *Ex Machina*
+- *Ex Machina* - a pretty interesting film
 
 ---
 
