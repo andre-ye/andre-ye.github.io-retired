@@ -21,6 +21,11 @@ Published: November 2021
 Pages: 451
 {: .label .label-purple}
 
+[Springer Link](https://link.springer.com/book/10.1007/978-1-4842-7413-2#toc){: .btn :target="_blank"} 
+[Barnes & Noble]([https://link.springer.com/book/10.1007/978-1-4842-7413-2#toc](https://www.barnesandnoble.com/w/modern-deep-learning-design-and-application-development-andre-ye/1139992754)){: .btn :target="_blank"} 
+[Amazon](https://www.amazon.com/Modern-Learning-Design-Application-Development/dp/1484274121){: .btn :target="_blank"} 
+
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -45,8 +50,6 @@ Much has been written about deep learning, most of it adhering to what I call a 
 I think of this in terms of the bias/variance paradigm introduced early to machine learning students. Consider a simple curve-fitting model: if the model has high variance, it bases its understanding of the phenomena almost completely on the known data points. The curve passes through every point, but it doesn't model the regions "in-between" (i.e. "unseen" values not in the dataset) well. This is the sort of learning I believe too strict a code-centric framework encourages. In my book, I attempt to encourage generalization in learning by emphasizing intuitive theory as a guiding framework for engineering deep learning solutions and demonstrating the versatility and freedom of deep learning implementation tools.
 
 Broadly, my book is a documentation and organization of more recent deep learning topics that have not made it yet into the bulk of "standard" deep learning literature. Topics include self-supervised learning, model compression (pruning, quantization, weight sharing, collaborative optimization), Bayesian optimization applications to neural network design, Neural Architecture Search, and architecture design motifs.
-
-You can find the book on the following platforms: [Springer Link](https://link.springer.com/book/10.1007/978-1-4842-7413-2#toc){:target="_blank"}, [Barnes & Noble](https://www.barnesandnoble.com/w/modern-deep-learning-design-and-application-development-andre-ye/1139992754){:target="_blank"}, [Amazon](https://www.amazon.com/Modern-Learning-Design-Application-Development/dp/1484274121){:target="_blank"}, and others.
 
 Read the introduction to the book (pages `I` - `XIX`) [here](https://link.springer.com/content/pdf/bfm%3A978-1-4842-7413-2%2F1.pdf){:target="_blank"}.
   
