@@ -15,13 +15,17 @@ Novel Methods to Solve Common Problems
 Book #2
 {: .label .label-blue}
 
-Published: n/a
+Published: December 2022
 {: .label .label-green}
 
-Pages: est 500-600
+Pages: 1000
 {: .label .label-purple}
 
-| This book is in the process of being written, with expected completion in late 2022. |
+| This book is in copyediting and the final stages of publishing. Stay tuned! |
+
+<!-- [Springer Link](https://link.springer.com/book/10.1007/978-1-4842-7413-2#toc){: .btn :target="_blank"}  -->
+[Barnes & Noble](https://www.barnesandnoble.com/w/modern-deep-learning-for-tabular-data-andre-ye/1141877884?ean=9781484286913){: .btn :target="_blank"} 
+[Amazon](https://www.amazon.com/Modern-Deep-Learning-Tabular-Data/dp/148428691X){: .btn :target="_blank"} 
 
 <details open markdown="block">
   <summary>
@@ -36,11 +40,11 @@ Pages: est 500-600
 
 ## Book Description 
 
-In this book, you’ll learn how to apply one of the most powerful tools in modern AI – deep learning – to one of the most common forms of data: tabular data. Whether for finance, business, security, medicine, or countless other disciplines, deep learning can help you discover rich insights and model complex patterns in your tabular dataset. 
+Deep learning is one of the most powerful tools in the modern artificial intelligence landscape. While having been predominantly applied to highly specialized image, text, and signal datasets, this book synthesizes and presents novel deep learning approaches to a seemingly unlikely domain – tabular data. Whether for finance, business, security, medicine, or countless other domain, deep learning can help mine and model complex patterns in tabular data – an incredibly ubiquitous form of structured data.
 
-This book will begin with a rigorous overview of machine learning principles, concepts, algorithms, and code to set a string foundation. Then, you’ll learn how to implement successful data processing, extraction, and engineering strategies. In the following chapters, the book engages with the theory and practice of five key pillars of modern deep learning in application to tabular data: deep learning training paradigms, convolutions, recurrent networks, transformers, and tree-based design. The book concludes with a study of tabular deep learning applications in several case studies, demonstrating real-life use of the presented concepts. 
+Part I of the book offers a rigorous overview of machine learning principles, algorithms, and implementation skills relevant to holistically modeling and manipulating tabular data. Part II studies five dominant deep learning model designs – Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Attention and Transformers, and Tree-Rooted Networks – through both their ‘default’ usage and their application to tabular data. Part III compounds the power of the previously covered methods by surveying strategies and techniques to supercharge deep learning systems: autoencoders, deep data generation, meta-optimization, multi-model arrangement, and neural network interpretability. Each chapter comes with extensive visualization, code, and relevant research coverage.
 
-*Modern Deep Learning for Tabular Data* is one of the first of its kind - a rigorous and wide exploration of deep learning applications to tabular data, documenting novel methods and techniques in the space. Equipped with this book, you’ll be ready to utilize modern deep learning paradigms and techniques to solve today’s most challenging tabular data problems. 
+_Modern Deep Learning for Tabular Data_ is one of the first of its kind – a wide exploration of deep learning theory and applications to tabular data, integrating and documenting novel methods and techniques in the field. This book provides a strong conceptual and theoretical toolkit to approach challenging tabular data problems.
 
 ---
 
@@ -52,89 +56,8 @@ This book will begin with a rigorous overview of machine learning principles, co
 
 ---
 
-## Tentative Table of Contents
+## Table of Contents
 
-Page count approximation: 500-600 pages
+Page count approximation: 1000 pages
 
-**Introduction**
-
-Chapter Goal: To set up ground definitions for key terms and ideas, to give the user important context for why the book was written and its goal. 
-- What is tabular data? 
-- Why is deep learning for tabular data important? Applications in business, medicine, and other contexts. 
-- Deep learning is not a universal solution. Understand the difference between deep learning, machine learning, and statistics. 
-
-**Chapter 1:  Classical Machine Learning Principles and Methods**
-
-Chapter Goal: To discuss key principles and algorithms of machine learning modeling relevant to working with tabular data and to the rest of the book. 
-- Fundamental principles of modeling – regression/classification, bias/variance trade-off + double deep descent, feature space concept 
-- Metrics and Evaluation (MAE, MSE, AUC, Precision/Recall, F1 Score, Gini Impurity, Entropy) 
-- K-Nearest Neighbors 
-- Linear and Logistic Regression 
-- Support Vector Machines 
-- Decision Tree and Random Forest 
-- Gradient Boosting 
-- Problems with classical machine learning algorithms (not versatile, not automated, difficult to optimize, requires more human intervention) 
-
-**Chapter 2:  Data Preparation Methods**
-
-Chapter Goal: To explore a wide variety of data preparation methods, which will be valuable in using neural networks for tabular data. 
-- Data manipulation methods – loading and manipulation with Pandas and NumPy 
-- Data encoding: categorical data (one-hot encoding, ordinal encoding, target encoding, etc.) and continuous data (quantization, standardization, normalization, etc.) 
-- Feature extraction (principal component analysis, linear discriminant analysis, U-MAP, t-SNE) 
-- Feature selection and engineering (information gain, variance threshold, statistic-based selection, high-correlation features) 
-
-**Chapter 3: Applying Standard Neural Network Structures to Tabular Data**
-
-Chapter Goal: To understand how neural networks operate and to build successful and complex architectures using standard feedforward layers for tabular data. 
-- Neural network theory crash course and math (feed-forward operation, backpropagation, optimization & metrics) 
-- Building a simple neural network on tabular data with Keras crash course 
-- Manual nonlinear structure design (borrowing architectural styles from CNN model heavyweights – ResNet, Inception, etc.) 
-- Embedding layers 
-
-**Chapter 4: Applying Convolutional Structures to Tabular Data**
-
-Chapter Goal: To develop a strong understanding of what convolutional layers are and how they can be successfully applied to tabular data. 
-- Convolutional neural network crash course (convolutions, pooling, specialized convolution operations, major convolutional architectures) 
-- 1-Dimensional convolutional neural networks 
-- The DeepInsight Method 
-
-**Chapter 5: Applying Recurrent Structures to Tabular Data**
-
-Chapter Goal: To develop a strong understanding of what recurrent layers are and how they can be successfully applied to both temporal and nontemporal tabular data. 
-- Recurrent neural network crash course (RNNs, LSTMs, GRUs) 
-- Time Series Data 
-- Applications to nontemporal tabular data 
-
-**Chapter 6: Advanced Deep Learning Strategies**
-
-Chapter Goal: To understand advanced deep learning strategies and their applications to the tabular data context. 
-- Autoencoders 
-- Similarity Learning 
-- Self-supervised learning 
-- Meta-optimization of architecture and data pipeline 
-- Data generation (GAN, VAE) 
-
-**Chapter 7: Applying Transformer Structures to Tabular Data**
-
-Chapter Goal: To develop a familiar understanding of what transformer structures are and to successfully apply available models to tabular data contexts. 
-- Transformer theory crash course 
-- Vanilla Transformer Applications – GPT-2 Example 
-- TabTransformer Model and Method 
-- TaBERT Model and Method 
-
-
-**Chapter 8: Applying Tree-Based Logic Structures to Tabular Data**
-
-Chapter Goal: To recognize and understand the framework of tree-based deep learning solutions and to successfully apply available models to tabular data contexts. 
-- Tree-based logic theory crash course 
-- GrowNet Model and Method 
-- TabNet Model and Method 
-- NODE Model and Method 
-
-**Chapter 9: Tabular Data Modeling Case Studies**
-
-Chapter Goal: To see how the theory presented throughout the book operates with real-world datasets with three tabular data machine learning case studies. 
-- Mechanisms of Action Prediction by Laboratory of Innovation Sciences at Harvard 
-- Stock Prediction by Jane Street 
-- Predicting Fan engagement of MLB players based on Digital content by MLB and Google Cloud
-
+Forthcoming.
