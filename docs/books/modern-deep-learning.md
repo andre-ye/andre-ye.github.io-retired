@@ -22,7 +22,7 @@ Pages: 451
 {: .label .label-purple}
 
 [Springer Link](https://link.springer.com/book/10.1007/978-1-4842-7413-2#toc){: .btn :target="_blank"} 
-[Barnes & Noble]([https://link.springer.com/book/10.1007/978-1-4842-7413-2#toc](https://www.barnesandnoble.com/w/modern-deep-learning-design-and-application-development-andre-ye/1139992754)){: .btn :target="_blank"} 
+[Barnes & Noble](https://www.barnesandnoble.com/w/modern-deep-learning-design-and-application-development-andre-ye/1139992754){: .btn :target="_blank"} 
 [Amazon](https://www.amazon.com/Modern-Learning-Design-Application-Development/dp/1484274121){: .btn :target="_blank"} 
 
 
