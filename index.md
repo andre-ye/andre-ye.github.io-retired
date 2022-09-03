@@ -34,6 +34,8 @@ Welcome to my personal website! You can find information about my work, projects
 Updates
 {: .fs-6 .fw-400 }
 
+| **9/3/22** My book co-author Andy Wang and I have submitted the final manuscript for [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/)! It is available for preorder on Amazon, Barnes and Noble, and other booksellers. Keep posted. |
+
 | **8/7/2022** Interactive Intelligence has received $24k of funding from the UW STF fund! |
 
 | **8/2/2022** My book co-author Alec Bunn and I are starting work on my upcoming third book, [Artificial Intelligence: An Accessible Approach]. The book is aimed at a general audience and attempts to help address the increasingly problematic AI literacy gap by providing knowledge of the ideas, structures, and algorithms which power digital and physical applications everywhere. |
