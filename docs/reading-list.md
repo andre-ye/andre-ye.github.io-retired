@@ -82,6 +82,8 @@ Shameless Self-Promotion
 
 View my writings and notes on books [here](https://andre-ye.github.io/pub/){:target="_blank"}.
 
+["The Revolt of the Salaried Bourgeoisie"](https://www.lrb.co.uk/the-paper/v34/n02/slavoj-zizek/the-revolt-of-the-salaried-bourgeoisie){:target="_blank"}, Slavoj Žižek. A must-read for all tech students & workers, and those wanting to understand a post-Marxist analysis of today's technocentric capitalism.
+
 Metaphysics
 - *Sex and the Failed Absolute* by Slavoj Žižek - the most brilliant book on philosophy I have had the pleasure of struggling through
 - *Absolute Recoil: Towards a New Foundation of Dialectical Materialism* by Slavoj Žižek
