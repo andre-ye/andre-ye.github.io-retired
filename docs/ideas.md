@@ -14,6 +14,18 @@ Unorganized seedlings of ideas, perhaps promising or stupid or both.
 
 Most recent on top.
 
+## Philosophy
+- Generative Adversarial Networks as a generator of simulacra. [Read about it](https://andre-ye.github.io/files/writings/On_the_Computational_Adversarial_Production_of_Simulacrum_Name.pdf){:target="_blank"}
+- The Turing Test as necessarily wrong, in the same Lacanian sense that a husband's jealous suspicion that his wife may be cheating on him is necessarily pathological even the suspicion is true. With a reversal a la Baudrillard, we must understand that it is not the machine being tested in the Turing Test but rather the human. More broadly, we must understand our very attempts to measure the intelligence of the machine as always-already overdetermined (a more specific application of Gunkel's analysis in _The Machine Question_).
+- Reconciling the continuous and the symbolic with respect to embeddings in language modeling.
+- Understanding recursivity in relationship to cyclicism - particularly in relationship with Hegel's conception of the spurious vs. the good infinite - and experimenting with the impossibility of cyclicism without recursivity, and vice versa.
+- Exploring the ways in which the machine becomes a laborer (in dialogue with Marx's assertions in _Das Kapital_), or in which the human laborer was always-already a machine laborer.
+- Reorienting Marx's theory of capital towards phenomenal experience as the atomic unit, and therefore reaching towards a truer understanding of dialectical materialism.
+- Reading Baudrillard's _Simulacra and Simulation_ as primarily a literary-aesthetic rather than philosophical work, even as a novel of the abstract.
+
+
+## Deep Learning
+
 - **Deductive reasoning from inductive axioms.** Deductive reasoning is a big part of human intelligence. If we can somehow force neural networks to formulate deductive 'statements' from existing parts of itself (i.e. the layers and subspaces of the parameter space which are inductively derived), then we obstensibly have a neural network which performs inductive-deductive hybrid reasoning and potentially has extrapolative capabilities.
 - **Hallucinating Generative Collaborative Networks.** Generative Adversarial Networks ground the generated outputs to the 'real' dataset at the root-level by exposing the discriminator to dataset samples; thus the generator works to learn a mapping $$z \to G(z)$$ which is as 'realistic' as possible in the sense of conforming to the dataset distribution $$p_g \approx p_\text{data}$$. Learning the distribution of reality as represented by the dataset distribution is not a trivial task, however - as anyone who has attempted to train a GAN knows. Often the generator suffers from mode collapse, in which the model only learns a small set of unique generated results,
 often due to the difficulty in 'internally tricking' the discriminator's knowledge representations (i.e. attempting to 'climb within' $$D$$ when taking the gradient of $$D(G(z))$$). Inspired by postmodern and poststructuralist metaphysical theory on phenomenology and the nature of reality, I pose the question: what if we consider the relationship between the discriminator and the generator not to be adversarial, but rather neutral, and perhaps even collaborative? If the generator produces an image which the discriminator marks with high confidence as real,
