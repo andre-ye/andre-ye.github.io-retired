@@ -3,7 +3,7 @@ layout: default
 title: Curricula Design
 parent: Projects
 nav_order: 51
-has_children: false
+has_children: true
 ---
 
 # Speech Model Curricula Design
