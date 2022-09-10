@@ -91,13 +91,12 @@ Metaphysics
 - *Being and Time* by Martin Heidegger
 - *Phenomenology of the Spirit* by Georg Hegel
 
-Structuralism
+Structuralism, Postmodernity, Post-structuralism 
 - *Discipline and Punish* by Michel Foucault
 - *The History of Sexuality* by Michel Foucault
 - *Madness and Civilization* by Michel Foucault
+- _Of Grammatology_ by Jacques Derrida
 - ["Ideology and Ideological State Apparatuses"](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm){:target="_blank"} by Louis Althusser
-
-Postmodernity and Post-structuralism 
 - *Simulacra and Simulation* by Jean Baudrilliard
 - ["A Cyborg Manifesto"](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf){:target="_blank"} by Donna Haraway
 - *Deconstruction* by David Gunkel
@@ -119,6 +118,12 @@ Technological Philosophy
 - *Quantum Entanglement* by Jed Brody
 - *AI Ethics* by Mark Coeckelbergh
 
+Epistemology and Mathematics
+- _Introduction to the Philosophy of Mathematics_ by Bertrand Russel
+- _Introduction to Godel's Theorems_ by Peter Smith
+- *Hume's Problem Solved: The Optimality of Meta-Induction* by Gerhard Schurz
+- *On Logic and the Theory of Science* by Jean Cavailles
+
 Consciousness and the Philosophy of Life
 - *The Feeling of Life Itself: Why Consciousness is Widespread but can't be Computed* by Christof Koch
 - [*The Selfish Gene*](https://ia803102.us.archive.org/4/items/richarddawkinstheselfishgene30thanniversaryeditionwithanewintroductionbytheauthor/RICHARD%20DAWKINS%20THE%20SELFISH%20GENE%20%2030TH%20ANNIVERSARY%20EDITION%20WITH%20A%20NEW%20INTRODUCTION%20BY%20THE%20AUTHOR.pdf){:target="_blank"} by Richard Dawkins
@@ -127,10 +132,6 @@ Consciousness and the Philosophy of Life
 
 Pedagogy
 - [*Philosophy: Who Needs It?*](https://www.kingauthor.net/books/Ayn%20Rand/Philosophy%20Who%20Needs%20It/Philosophy%20Who%20Needs%20It%20-%20Ayn%20Rand.pdf){:target="_blank"} by Ayn Rand
-
-Epistemology
-- *Hume's Problem Solved: The Optimality of Meta-Induction* by Gerhard Schurz
-- *On Logic and the Theory of Science* by Jean Cavailles
 
 Aesthetics
 - *Speculative Aesthetics*, edited by Robin Mackay et al.
