@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Siamese Speaker Change Detection
-parent: Projects
+grand_parent: Projects
+parent: Curricula Design
 nav_order: 50
 has_children: false
 ---
