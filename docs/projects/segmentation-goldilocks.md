@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Improving Segmentation Crowdsourcing
+title: Informative Segmentation Modeling and Crowdsourcing
 parent: Projects
 nav_order: 2
 has_children: false
 ---
 
-# Improving Segmentation Crowdsourcing
+# Informative Segmentation Modeling and Crowdsourcing
 
 Performed @ the Social Futures Lab, Allen School
 {: .fs-6 .fw-300 }
 
 ---
 
-| For this project, I am working with Ph.D. student Quanze (Jim) Chen under PI Amy Zhang. |
+| For this project, I am working with Ph.D. student Jim (Quanze) Chen and PI Amy Zhang. |
 
 Semantic segmentation tasks are an important part of computer vision, with key applications in robotics, scene interpretation, surveillance, and biology. These tasks often require human annotators to create segmentation maps identifying regions, boundaries, or bounding boxes corresponding to the original image. However, like many annotation problems, there are often nontrivial uncertainties associated with annotation that cannot be captured through vanilla annotation mediums, practices, policies, and interfaces.
 
@@ -30,3 +30,6 @@ In this project, I attempt to 'translate' these principles to a segmentation dom
 
 - [Goldilocks for Images](https://andre-ye.github.io/files/sfl/Goldilocks for Images.pdf){:target="_blank"}. Given as an introduction during a lab meeting to the idea of uncertainty representation and theorizing visual uncertainty.
 - [Medical Uncertainty Annotation](https://andre-ye.github.io/files/sfl/Medical Uncertainty Annotation.pdf){:target="_blank"}. Given as an update during a lab meeting to the chosen domain and demoing the application.
+
+
+
