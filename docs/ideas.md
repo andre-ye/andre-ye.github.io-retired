@@ -22,7 +22,7 @@ Most recent on top.
 - Exploring the ways in which the machine becomes a laborer (in dialogue with Marx's assertions in _Das Kapital_), or in which the human laborer was always-already a machine laborer.
 - Reorienting Marx's theory of capital towards phenomenal experience as the atomic unit, and therefore reaching towards a truer understanding of dialectical materialism.
 - Reading Baudrillard's _Simulacra and Simulation_ as primarily a literary-aesthetic rather than philosophical work, even as a novel of the abstract.
-
+- Understanding the debate in deep learning over "imitating intelligence very well" as opposed to "really being intelligent" as a continuation of the Kantian question of the 'cheap' phenomenal appearance and the noumenal Real.
 
 ## Deep Learning
 
