@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Informative Segmentation Modeling and Crowdsourcing
+title: Segmentation in Ambiguous Contexts
 parent: Projects
 nav_order: 2
 has_children: false
 ---
 
-# Informative Segmentation Modeling and Crowdsourcing
+# Segmentation in Ambiguous Contexts
 
 Performed @ the Social Futures Lab, Allen School
 {: .fs-6 .fw-300 }
