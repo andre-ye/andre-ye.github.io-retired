@@ -34,6 +34,8 @@ Welcome to my personal website! You can find information about my work, projects
 Updates
 {: .fs-6 .fw-400 }
 
+| **9/15/22** My second book, [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/), is #1 in new releases for Information Theory on Amazon. |
+
 | **9/3/22** My book co-author Andy Wang and I have submitted the final manuscript for [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/)! It is available for preorder on Amazon, Barnes and Noble, and other booksellers. Keep posted. |
 
 | **8/7/2022** Interactive Intelligence has received $24k of funding from the UW STF fund! |
