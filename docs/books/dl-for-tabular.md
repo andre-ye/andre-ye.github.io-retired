@@ -29,6 +29,11 @@ Pages: 1000
 
 Read the foreword by Tomas Pfister (Head of AI @ Google Cloud) and Alok Sharma (Professor, Senior Scientist @ RIKEN Center), as well as the complete Introduction, in the front matter [here](#) (not released yet).
 
+Amazon Rankings
+- #1 for new releases in Information Theory
+- #23 in Artificial Intelligence
+- #28 in Information Theory
+
 <details open markdown="block">
   <summary>
     Table of contents
