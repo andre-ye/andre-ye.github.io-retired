@@ -31,6 +31,7 @@ Read the foreword by Tomas Pfister (Head of AI @ Google Cloud) and Alok Sharma (
 
 Amazon Rankings
 - #1 for new releases in Information Theory
+- #4 for new releases in Artificial Intelligence
 - #23 in Artificial Intelligence
 - #28 in Information Theory
 
