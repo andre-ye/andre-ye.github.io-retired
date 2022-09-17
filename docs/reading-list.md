@@ -23,6 +23,7 @@ Updated every month or so.
 
 Theory of Deep Learning
 - ["On the Measure of Intelligence"](https://arxiv.org/abs/1911.01547){:target="_blank"} by Francois Chollet
+- ["Beyond Neural Scaling Laws: Beating Power Law Scaling via Data Pruning"](https://arxiv.org/pdf/2206.14486.pdf){:target="_blank"} by Ben Sorscher, Robert Geirhos, Shashank Shekhar, Surya Ganguli, Ari Morcos
 - ["Learning in High Dimension Always Amounts to Extrapolation"](https://arxiv.org/pdf/2110.09485.pdf){:target="_blank"} by Randall Balestriero, Jerome Pesenti, and Yann LeCun
 - ["Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238){:target="_blank"} by Alan Turing
 - ["The Lottery Ticket Hypothesis"](https://arxiv.org/pdf/1803.03635.pdf){:target="_blank"} by Jonathan Frankle and Michael Carbin
