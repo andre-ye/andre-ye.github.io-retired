@@ -120,10 +120,11 @@ Technological Philosophy
 - *AI Ethics* by Mark Coeckelbergh
 
 Epistemology and Mathematics
-- _Introduction to the Philosophy of Mathematics_ by Bertrand Russel
+- _Introduction to the Philosophy of Mathematics_ by Bertrand Russell
 - _Introduction to Godel's Theorems_ by Peter Smith
 - *Hume's Problem Solved: The Optimality of Meta-Induction* by Gerhard Schurz
 - *On Logic and the Theory of Science* by Jean Cavailles
+- *An Introduction to Godel's Theorems* by Peter Smith
 
 Consciousness and the Philosophy of Life
 - *The Feeling of Life Itself: Why Consciousness is Widespread but can't be Computed* by Christof Koch
@@ -131,7 +132,7 @@ Consciousness and the Philosophy of Life
 - *The Case Against Death* by Ingemar Linden
 - *Death and Dying* by Nicole Piemonte and Shawn Abreu
 
-Pedagogy
+Pedagogy, Metaphilosophy
 - [*Philosophy: Who Needs It?*](https://www.kingauthor.net/books/Ayn%20Rand/Philosophy%20Who%20Needs%20It/Philosophy%20Who%20Needs%20It%20-%20Ayn%20Rand.pdf){:target="_blank"} by Ayn Rand
 
 Aesthetics
