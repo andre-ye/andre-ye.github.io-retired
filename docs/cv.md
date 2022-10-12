@@ -118,9 +118,11 @@ ensemble of deep neural network and TabNet models
 - Was selected as one of two nominees to represent our region in international judging by NASA, ESA, and other international space agencies.
 
 ## Academics
-- Double major in philosophy and computer science.
+- Bachelor of Science degree with a major in Computer Science - Data Science
+- Bachelor of Arts degree with a major in Philosophy
+- Minor in Russian language.
 - 4.0 cumulative GPA.
-- *[Early Entrance Program](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"}*. Skipped high school, entered university at 15.
+- [Early Entrance Program](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"}
 
 ## Technical Skills
 
