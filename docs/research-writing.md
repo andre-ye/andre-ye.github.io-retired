@@ -24,6 +24,7 @@ Presentations, talks, books, essays
 
 ## Essays
 - ["The Wartime State and the Cigarette: Darkness and Temporality in Pale Horse, Pale Rider"](https://www.tandfonline.com/doi/full/10.1080/00144940.2022.2063706){:target="_blank"}. *The Explicator*, Volume 80, 2022 - Issue 1-2, pages 30-33. https://doi.org/10.1080/00144940.2022.2063706.
-- ["On the Computational-Adversarial Production of Simulacrum"](https://andre-ye.github.io/files/writings/On_the_Computational_Adversarial_Production_of_Simulacrum_Name.pdf){:target="_blank"}.
-- ["Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Draft%204%20-%20Final.pdf){:target="_blank"}.
+- ["Wor(k/d)play"](https://andre-ye.github.io/files/writings/Wor(k_d)play%20(3).pdf){:target="_blank"} - Language Play as Philosophical Work
+- ["On the Computational-Adversarial Production of Simulacrum"](https://andre-ye.github.io/files/writings/On_the_Computational_Adversarial_Production_of_Simulacrum_Name.pdf){:target="_blank"}
+- ["Collective Individualism in Black Conservatism"](https://andre-ye.github.io/ts/docs/portfolio/files/sociology/Draft%204%20-%20Final.pdf){:target="_blank"}
 
