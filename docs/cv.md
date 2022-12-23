@@ -11,11 +11,29 @@ permalink: /docs/cv
 Relevant Experience and Skills
 {: .fs-6 .fw-300 }
 
-*View a compact resume PDF [here](https://andre-ye.github.io/files/personal/Ye_Andre_Resume_22_23_cycle.pdf){:target="_blank"}*.
+<!-- *View a compact resume PDF [here](https://andre-ye.github.io/files/personal/Ye_Andre_Resume_22_23_cycle.pdf){:target="_blank"}*. -->
 
 ---
 
 ## Research Work
+
+### Undergraduate Researcher, w/ Prof. Conor Mayo-Wilson, Dept. of Philosophy
+*March 2023 - Present*
+
+Planned, not settled yet
+
+### Undergrad Researcher, w/ Prof. Ranjay Krishna & Prof. Amy Zhang, Allen School of CSE
+*January 2023 - Present*
+
+Planned
+
+### Undergrad Researcher @ Social Futures Lab, Allen School of CSE
+*February 2022 - Dec 2022*
+
+The [Social Futures Lab](https://social.cs.washington.edu/){:target="_blank"} works towards reimagining social and collaborative systems to empower people and improve society. I am researching a novel data
+annotation protocol for high-stakes image segmentation problems like pathology and medical biology to directly mark uncertainty
+into the data itself rather than inferring uncertainty from model outputs second-hand, the objective being to
+develop more robust and self-aware computer vision models.
 
 ### Research Intern @ Deepgram
 *June 2022 - September 2022*
@@ -25,28 +43,19 @@ curriculum training infrastructure and practices to target data contamination, c
 behavior, significantly improve convergence speed, and improve performance in some cases while training large
 speech models on millions of hours of audio
 
-### HCI & ML Research @ Social Futures Lab, Allen School of CSE
-*February 2022 - Present*
-
-The [Social Futures Lab](https://social.cs.washington.edu/){:target="_blank"} works towards reimagining social and collaborative systems to empower people and improve society. I am researching a novel data
-annotation protocol for high-stakes image segmentation problems like pathology and medical biology to directly mark uncertainty
-into the data itself rather than inferring uncertainty from model outputs second-hand, the objective being to
-develop more robust and self-aware computer vision models.
-
 ### Research Lead @ Interactive Intelligence
-*January 2022 - Present*
+*January 2022 - Dec 2022*
 
 Interactive Intelligence (I2) is an independent student research group at the UW focusing on developing
 human-like cognition in deep learning models. Leading the Emergent Language group to build deep learning
 models which develop “their own” novel system of language generation and interpretation.
 
-### Deep Learning Research @ Najafian Lab, UW Medicine
+### Undergrad Researcher @ Najafian Lab, UW Medicine
 *March 2021 - May 2022*
 
-- The [Najafian Lab for the Pathobiology of Kidney Diseases](https://dlmp.uw.edu/research-labs/najafian){:target="_blank"} in UW Medicine's Department of Laboratory Medicine and Pathology operates multiple projects investigating kidney diseases. The lab brings in computer science students to help realize many of the medical imaging projects, which require computer vision and deep learning.
-- Worked on developing a segmentation pipeline to visually mark features on electron microscopy images of cells. Worked with project teammates to utilize various deep learning practices well-informed by the surrounding biological/medical context; develop a responsible data collection, annotation and modeling pipeline; and innovate deep learning new practices in the medical image field to more effectively model biological phenomena.
-- Worked with teammates responsible for web development to package the developed models in an accessible and efficient application.
-- Assisted with dataset annotation and quality control.
+The [Najafian Lab for the Pathobiology of Kidney Diseases](https://dlmp.uw.edu/research-labs/najafian){:target="_blank"} in UW Medicine's Department of Laboratory Medicine and Pathology operates multiple projects investigating kidney diseases.
+
+Worked on developing a segmentation pipeline to visually mark features on electron microscopy images of cells. Researched novel segmentation model training practices  to more effectively model biological phenomena.
 
 <!-- ### Analytics @ UW Polling and Open Data Iniative
 *July 2021 - Present*
@@ -56,16 +65,31 @@ models which develop “their own” novel system of language generation and int
 - Advocated for and led the usage of deep learning for analysts in various PODUW projects and committees. Facilitated the integration of insights discovered by deep learning with traditional statistics and visualization methods.
 - Assisted with web development and upkeep. -->
 
+## TA'ing
+
+### Teaching Assistant, UW Robinson Center
+Teaching assistant for a year-long English track course at the UW campus.
+- *Fall 2022*: Composition, Argumentation, Analysis. Students are introduced to the nuances and practices of academic argumentative writing. Contributed to course material, hosted multiple hours of office hours, assisted with classroom discussion and grading.
+- *Winter 2022*: Literary Analysis. Ongoing.
+
+### Teaching Assistant, Allen School of CSE
+*March 2022 - June 2022*
+
+TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer, Spring Quarter. Graded homework, hosted office hours, taught weekly sections.
+
 ## Publishing and Writing Work
 
-### Technical Reviewer
+### Deep Learning Author, Apress and Packt
+Authored two books with Apress, currently writing one more with Apress and another with Packt.
+
+### Technical Reviewer, Apress and Packt
 *November 2021 - Present*
 
 - Testing code, determining the accuracy of author content, and making revisions and suggestions to increase
 clarity and communication in data science books. Currently reviewing: *Building Data Science Solutions with
 Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intelligence* by Apress.
 
-### Data Science Writer
+### Data Science Writer, Medium
 *March 2020 - April 2021*
 
 - Awarded the Gold and Silver Medal from KDnuggets, a leading data science site with over 700k+ visitors monthly, for writing two of the most top-viewed and top-shared articles on the platform.
@@ -75,10 +99,10 @@ Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intell
 
 ## Miscellaneous
 
-### Teaching Assistant @ Allen School of CSE
-*March 2022 - June 2022*
+### Food Server, McDonald's
+*December 2022 - Present*
 
-TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer, Spring Quarter. Graded homework, hosted office hours, taught weekly sections.
+Serving hungry people.
 
 ### Volunteer Data Scientist @ CoronaWhy
 *April 2020 - June 2020*
