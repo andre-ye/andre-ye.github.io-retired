@@ -72,8 +72,10 @@ aux_links:
     - "https://andre-ye.medium.com"
   "Uni Notes Project":
     - "https://andre-ye.github.io/uni"
-  "Research Gate":
-    - "https://www.researchgate.net/scientific-contributions/Andre-Ye-2207570227"
+  "Insta":
+    - "https://www.instagram.com/andre.ye.0/"
+#   "Research Gate":
+#     - "https://www.researchgate.net/scientific-contributions/Andre-Ye-2207570227"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
