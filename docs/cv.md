@@ -15,6 +15,15 @@ Relevant Experience and Skills
 
 ---
 
+## Education
+Currently pursuing the following programs. 
+- Bachelor of Arts degree with a major in Philosophy (focus: ethics, metaphysics, formal and social epistemology)
+- Bachelor of Arts degree with a major in Comparative History of Ideas (focus: critical theory, labor)
+- Bachelor of Science degree with a major in Computer Science (focus: theory, ML)
+- Minor in Russian language
+- Minor in math (focus: abstract algebra)
+- [Early Entrance Program](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"}, skipped high school
+
 ## Research Work
 
 ### Undergraduate Researcher, w/ Prof. Conor Mayo-Wilson, Dept. of Philosophy
@@ -111,7 +120,7 @@ Serving hungry people.
 - Performed textual analysis and visualization on communications for greater internal efficiency.
 - Assisted the CoronaWhy team in developing a transformer-based model for the Epidemic Questioning Answering dataset that answers COVID-19 related questions by extracting answers from the relevant literature.
 
-## Competitions and Awards
+## For Fun: Competitions and Awards
 
 I hold Kaggle Master rank and a top 2% position within the Kaggle community of over 160k data scientists.
 
@@ -140,18 +149,3 @@ ensemble of deep neural network and TabNet models
 - Coded and presented a solution for NASA’s Space Apps Hackathon. A large satellite-collected dataset from NASA databases was analyzed and modelled to predict the economic impact of wildfires.
 - Used several machine learning methods, including gradient-boosted trees and model explainability techniques. Visualized model findings and data patterns.
 - Was selected as one of two nominees to represent our region in international judging by NASA, ESA, and other international space agencies.
-
-## Academics
-- Bachelor of Arts degree with a major in Philosophy
-- Bachelor of Arts degree with a major in Comparative History of Ideas
-- Bachelor of Science degree with a major in Computer Science
-- Minor in Russian language.
-- [Early Entrance Program](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"}
-
-## Technical Skills
-
-**Languages**: Proficient - Python; Familiar - SQL, HTML + CSS + JS, PHP, Java, Brainfuck
-
-**Libraries**: Proficient - TensorFlow + Keras, scikit-learn, numpy, pandas, matplotlib, seaborn, OpenCV; Familiar - PyTorch, Flask
-
-**Other**: $$\LaTeX$$, Jupyter, bash, git, Linux
