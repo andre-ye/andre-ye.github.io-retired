@@ -16,25 +16,21 @@ img {
 
 # Andre Ye
 {: .fs-9}
-<!-- 
-My personal website
-{: .fs-6 .fw-300 } -->
 
+Undergraduate at University of Washington.
+{: .fs-6 .fw-300 }
 
-
-Welcome to my personal website! You can find information about my work, projects, interests, and more here.
-{: .fs-5 .fw-300 }
 
 <br>
 
-**👋 Hey there! I'm Andre.** I work on philosophy and computer science at the University of Washington. I am interested in exploring the epistemology of deep learning algorithms, particularly with respect to 'deep pedagogy', adaptive curriculum design, and the potential of such models to develop subjectivity, disagreement, opinions, and bias. The relationship between theoretical and inductive ('practical') discoveries in deep learning and AI ethics and regulation also interests me. Previously, I built deep computer vision models for medical pathology at the Najafian Lab. Currently, I am researching a novel data annotation protocol at the Social Futures Lab which directly structures domain uncertainty into the markup and therefore hopefully a) reduces annotation uncertainty and b) allows for more robust model training. I am also looking forward to research in the philosophy department in the near future. Additionally, I enjoy writing essays and books on a variety of topics in artificial intelligence, philosophy, and literature. My email is `andreye at uw dot edu`.
+**👋 Hey there! I'm Andre.** I am majoring in philosophy, comparative history of ideas, and computer science. My research interests in deep learning include vision understanding, curriculum learning, and human-AI interaction; in philosophy: virtual labor and the phenomenology of digital spaces, with broader passions for critical theory, social epistemology, (post-)structuralism, and (post-)Marxism. Currently, I am a research assistant in the **Social Futures Lab**. I also TA for an English courses at the UW and am a food server at McDonald's. My email is `andreye at uw dot edu`.
 
 ---
 
 Updates
 {: .fs-6 .fw-400 }
 
-| **9/15/22** My second book, [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/), is #1 in new releases for Information Theory and #4 in new releases for Artificial Intelligence on Amazon. Preorder today! |
+| **9/15/22** My second book, [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/), hit #1 in new releases for Information Theory and #4 in new releases for Artificial Intelligence on Amazon. Preorder today! |
 
 | **9/3/22** My book co-author Andy Wang and I have submitted the final manuscript for [*Deep Learning for Tabular Data*](https://andre-ye.github.io/docs/books/dl-for-tabular/)! It is available for preorder on Amazon, Barnes and Noble, and other booksellers. Keep posted. |
 
