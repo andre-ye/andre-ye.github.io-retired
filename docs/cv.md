@@ -76,7 +76,14 @@ Worked on developing a segmentation pipeline to visually mark features on electr
 
 ## TA'ing
 
+### Academic Support Teaching Assistant, The Coding School
+*November 2022 - Present*
+
+Hosted office hours to assist students for [The Coding School](https://the-cs.org/){:target="_blank"}
+
 ### Teaching Assistant, UW Robinson Center
+*September 2022 - Present*
+
 Teaching assistant for a year-long English track course at the UW campus.
 - *Fall 2022*: Composition, Argumentation, Analysis. Students are introduced to the nuances and practices of academic argumentative writing. Contributed to course material, hosted multiple hours of office hours, assisted with classroom discussion and grading.
 - *Winter 2022*: Literary Analysis. Ongoing.
@@ -84,7 +91,7 @@ Teaching assistant for a year-long English track course at the UW campus.
 ### Teaching Assistant, Allen School of CSE
 *March 2022 - June 2022*
 
-TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163) with Prof. Hunter Schafer, Spring Quarter. Graded homework, hosted office hours, taught weekly sections.
+TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni/docs/cs/cse-163){:target="_blank"} with Prof. Hunter Schafer, Spring Quarter. Graded homework, hosted office hours, taught weekly sections.
 
 ## Publishing and Writing Work
 
