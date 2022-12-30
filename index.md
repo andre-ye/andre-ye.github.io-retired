@@ -12,7 +12,7 @@ img {
 }
 </style>
 
-<img src="https://andre-ye.github.io/assets/images/modern-pfp.jpg" alt="profile photo" style="float: left; margin-right: 15px; max-height: 120px; width: auto;">
+<img src="https://andre-ye.github.io/assets/images/modern_pfp.jpg" alt="profile photo" style="float: left; margin-right: 15px; max-height: 120px; width: auto;">
 
 # Andre Ye
 {: .fs-9}
