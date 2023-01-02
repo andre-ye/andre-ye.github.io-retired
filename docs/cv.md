@@ -116,9 +116,14 @@ Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intell
 ## Miscellaneous
 
 ### Food Server, McDonald's
-*December 2022 - Present*
+*January 2023 - Present*
 
 Serving hungry people.
+
+### Reboot Fellowship Member
+*January 2023 - Present*
+
+Recipient of & participant in the [Reboot Fellowship Program](https://reboothq.substack.com/about){:target="_blank"}.
 
 ### Volunteer Data Scientist @ CoronaWhy
 *April 2020 - June 2020*
