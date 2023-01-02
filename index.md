@@ -17,7 +17,7 @@ img {
 # Andre Ye
 {: .fs-9}
 
-Undergraduate at UW.
+Undergraduate, UW.
 {: .fs-6 .fw-300 }
 
 
