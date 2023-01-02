@@ -19,17 +19,14 @@ Updated every month or so.
 
 ## AI
 
-*See an additional curated list of great papers discussed in my first book [here](https://andre-ye.github.io/docs/books/modern-deep-learning/#case-study-papers){:target="_blank"}.*
+*See an additional curated list of great papers discussed in my first book as case studies [here](https://andre-ye.github.io/docs/books/modern-deep-learning/#case-study-papers){:target="_blank"}.*
 
-Theory of Deep Learning
-- ["On the Measure of Intelligence"](https://arxiv.org/abs/1911.01547){:target="_blank"} by Francois Chollet
+Deep Learning Theory ("Theory" 😉)
 - ["Beyond Neural Scaling Laws: Beating Power Law Scaling via Data Pruning"](https://arxiv.org/pdf/2206.14486.pdf){:target="_blank"} by Ben Sorscher, Robert Geirhos, Shashank Shekhar, Surya Ganguli, Ari Morcos
 - ["Learning in High Dimension Always Amounts to Extrapolation"](https://arxiv.org/pdf/2110.09485.pdf){:target="_blank"} by Randall Balestriero, Jerome Pesenti, and Yann LeCun
-- ["Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238){:target="_blank"} by Alan Turing
 - ["The Lottery Ticket Hypothesis"](https://arxiv.org/pdf/1803.03635.pdf){:target="_blank"} by Jonathan Frankle and Michael Carbin
 - ["Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask"](https://arxiv.org/pdf/1905.01067.pdf){:target="_blank"} by Hattie Zhou et al.
 - ["Deep Double Descent"](https://arxiv.org/pdf/1912.02292.pdf){:target="_blank"} by Preetum Nakkiran et al.
-- ["The Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html){:target="_blank"} by Rich Sutton
 - ["Adversarial Examples Are Not Bugs, They Are Features"](https://arxiv.org/pdf/1905.02175.pdf){:target="_blank"} by Andrew Ilyas et al.
 - ["Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets"](https://arxiv.org/pdf/2201.02177.pdf){:target="_blank"} by Alethea Power et al.
 - ["What's Hidden in a Randomly Weighted Neural Network?"](https://arxiv.org/pdf/1911.13299.pdf){:target="_blank"} by Vivek Ramanjuan and Michell Wortsman
@@ -37,13 +34,6 @@ Theory of Deep Learning
 - ["Learning to learn by gradient descent by gradient descent"](https://arxiv.org/pdf/1606.04474.pdf){:target="_blank"} by Marcin Andrychowicz et al.
 - ["On Exact Computation with an Infinitely Wide Neural Net"](https://arxiv.org/pdf/1904.11955.pdf){:target="_blank"} by Sanjeev Arora
 - ["Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning"](https://arxiv.org/pdf/1506.02142.pdf){:target="_blank"} by Yarin Gal and Zoubin Ghahramani
-
-Emergent Language
-- ["Compositional Observer Communication Learning from Raw Visual Input"](https://arxiv.org/pdf/1804.02341v1.pdf){:target="_blank"} by Edward Choi, Angeliki Lazaridou, Nando de Freitas
-- ["Emergence of Grounded Compositional Language in Multi-Agent Populations"](https://arxiv.org/abs/1703.04908){:target="_blank"} by Igor Mordatch and Pieter Abbeel
-- ["On the Spontaneous Emergence of Discrete and Compositional Signals"](https://aclanthology.org/2020.acl-main.433.pdf){:target="_blank"} by Nur Geffen Lan, Emmanuel Chemla, and Shane Steinert-Threlkel
-- ["Learning Emergent Discrete Message Communication for Cooperative Reinforcement Learning"](https://arxiv.org/pdf/2102.12550.pdf){:target="_blank"} by Sheng Li, Yutai Zhou, Ross Allen, Mykel J. Kochenderfer
-- ["AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms"](https://arxiv.org/pdf/1709.05703.pdf){:target="_blank"} by Kory Becker and Justin Gottschlich
 
 Bias and Fairness
 - ["On the (im)possibility of fairness"](https://arxiv.org/pdf/1609.07236.pdf){:target="_blank"} by Sorelle A. Friedler et al.
@@ -72,35 +62,56 @@ Natural Language Processing
 - ["Transformers are Graph Neural Networks"](https://thegradient.pub/transformers-are-graph-neural-networks/){:target="_blank"} by Chaitanya Joshi
 - ["Generating Words from Embeddings"](https://rajatvd.github.io/Generating-Words-From-Embeddings/){:target="_blank"} from Rajat's Blog
 
+Emergent Language
+- ["Compositional Observer Communication Learning from Raw Visual Input"](https://arxiv.org/pdf/1804.02341v1.pdf){:target="_blank"} by Edward Choi, Angeliki Lazaridou, Nando de Freitas
+- ["Emergence of Grounded Compositional Language in Multi-Agent Populations"](https://arxiv.org/abs/1703.04908){:target="_blank"} by Igor Mordatch and Pieter Abbeel
+- ["On the Spontaneous Emergence of Discrete and Compositional Signals"](https://aclanthology.org/2020.acl-main.433.pdf){:target="_blank"} by Nur Geffen Lan, Emmanuel Chemla, and Shane Steinert-Threlkel
+- ["Learning Emergent Discrete Message Communication for Cooperative Reinforcement Learning"](https://arxiv.org/pdf/2102.12550.pdf){:target="_blank"} by Sheng Li, Yutai Zhou, Ross Allen, Mykel J. Kochenderfer
+- ["AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms"](https://arxiv.org/pdf/1709.05703.pdf){:target="_blank"} by Kory Becker and Justin Gottschlich
+
+Meta Stuff
+- ["On the Measure of Intelligence"](https://arxiv.org/abs/1911.01547){:target="_blank"} by Francois Chollet
+- ["Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238){:target="_blank"} by Alan Turing
+- ["The Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html){:target="_blank"} by Rich Sutton
+
 Shameless Self-Promotion
 - [*Modern Deep Learning Design and Application Development*](https://link.springer.com/book/10.1007/978-1-4842-7413-2){:target="_blank"} by Andre Ye
 - *Deep Learning for Tabular Data* by Andre Ye and Andy Wang
 - *Artificial Intelligence: An Accessible Approach* by Andre Ye and Alec Bunn
+- *Curriculum Learning* by Andre Ye
 
 ---
 
 ## Philosophy
 
-View my writings and notes on books [here](https://andre-ye.github.io/pub/){:target="_blank"}.
+<!--View my writings and notes on books [here](https://andre-ye.github.io/pub/){:target="_blank"}.-->
 
-["The Revolt of the Salaried Bourgeoisie"](https://www.lrb.co.uk/the-paper/v34/n02/slavoj-zizek/the-revolt-of-the-salaried-bourgeoisie){:target="_blank"}, Slavoj Žižek. A must-read for all tech students & workers, and those wanting to understand a post-Marxist analysis of today's technocentric capitalism.
+Currently (Actively) Reading
+- *The Sublime Object of Ideology* by Slavoj Zizek
+- *The Idiot* by Fyodor Dostoevsky
+- *Queer Phenomenology* by Sara Ahmed
+- *Bad Gays* by Huw Lemmey and Ben Miller
+- *Capital* by Karl Marx
+- *Tender is the Flesh* by Agustina Bazterrica
+- *Of Grammatology* by Derrida
+
+Critical Theory
+- ["The Revolt of the Salaried Bourgeoisie"](https://www.lrb.co.uk/the-paper/v34/n02/slavoj-zizek/the-revolt-of-the-salaried-bourgeoisie){:target="_blank"}, Slavoj Žižek
+- ["A Cyborg Manifesto"](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf){:target="_blank"} by Donna Haraway
 
 Metaphysics
-- *Sex and the Failed Absolute* by Slavoj Žižek - the most brilliant book on philosophy I have had the pleasure of struggling through
+- *Sex and the Failed Absolute* by Slavoj Žižek
 - *Absolute Recoil: Towards a New Foundation of Dialectical Materialism* by Slavoj Žižek
 - *Introduction to Metaphysics* by Martin Heidegger
 - *Being and Time* by Martin Heidegger
 - *Phenomenology of the Spirit* by Georg Hegel
 
-Structuralism, Postmodernity, Post-structuralism 
+Structuralism, Postmodernity, Post-structuralism
 - *Discipline and Punish* by Michel Foucault
 - *The History of Sexuality* by Michel Foucault
-- *Madness and Civilization* by Michel Foucault
 - _Of Grammatology_ by Jacques Derrida
 - ["Ideology and Ideological State Apparatuses"](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm){:target="_blank"} by Louis Althusser
 - *Simulacra and Simulation* by Jean Baudrilliard
-- ["A Cyborg Manifesto"](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf){:target="_blank"} by Donna Haraway
-- *Deconstruction* by David Gunkel
 
 Capitalism, Marxism, and Post-Marxism
 - *Capital: A Critique of Political Economy* (Vol. I) by Karl Marx
@@ -109,8 +120,6 @@ Capitalism, Marxism, and Post-Marxism
 - *Capital Hates Everyone: Fascism or Revolution* by Maurizio Lazzarato
 - *Signs and Machines: Capitalism and the Production of Subjectivity* by Maurizio Lazzarato
 - [*Marxism and Literature*](http://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfm9zBHlJ6w8.pdf){:target="_blank"} by Raymond Williams
-- *Race, Nation, Class: Ambiguous Identities* - Chapter 7, Class Conflict in the Capitalist World Economy by Immanuel Wallerstein
-- ["The Dialectics of Still Life: Murder, Women, and Disposability"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwji04zylbX5AhVsATQIHQtEDEEQFnoECAIQAQ&url=https%3A%2F%2Fcanvas.uw.edu%2Ffiles%2F63482269%2Fdownload%3Fdownload_frd%3D1&usg=AOvVaw02XqAeQhplf-nTGY9nMMco){:target="_blank"} by Melissa Wright
 - *Intersectional Class Struggle: Theory and Practice* by Michael Reagan
 
 Technological Philosophy
@@ -142,28 +151,26 @@ Aesthetics
 ---
 
 ## Fiction
-I don't read much fiction, but of what I have read, this is my favorite selection.
 
-Long-form
-- *Infinite Jest* by David Foster Wallace - a great read.
+- *Infinite Jest* by David Foster Wallace
+- *Never Let Me Go* by Kazuo Ishiguro
 - *Crime and Punishment* by Fyodor Dostoevsky
 - *A Clockwork Orange* by Anothony Burgess
 - *Call Me By Your Name* by Andre Aciman
-
-Novella/Short Story
 - ["Pale Horse, Pale Rider"](https://ia801602.us.archive.org/2/items/in.ernet.dli.2015.184599/2015.184599.Pale-Horse-pale-Rider.pdf){:target="_blank"} by Katherine Anne Porter
-- ["Bloodchild"](https://static1.squarespace.com/static/574dd51d62cd942085f12091/t/5ae0e84e562fa74f9c6773a5/1524688975128/octavia-butler-bloodchild.pdf){:target="_blank"} by Octavia Butler
 
 ---
 
 ## Film
-- *2001: A Space Odyssey* - my favorite film
-- *Interstellar* - a very good film
-- *A Quiet Place* - entertaining and a good scare
+- *Synecdoche: New York*
+- *The Rehearsal*
+- *2001: A Space Odyssey*
+- *Interstellar*
+- *A Quiet Place*
 - *Call Me By Your Name*
-- *Parasite* - a very good film
-- *Snowpiercer*
-- *Ex Machina* - a pretty interesting film
+- *Ex Machina*
+- *Everything Everywhere All At Once*
+- *Parasite*
 
 ---
 
