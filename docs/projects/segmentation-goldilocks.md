@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Segmentation in Ambiguous Contexts
+title: Confidence Contours
 parent: Projects
-nav_order: 2
+nav_order: -3
 has_children: false
 ---
 
-# Segmentation in Ambiguous Contexts
+# Confidence Contours
 
-Performed @ the Social Futures Lab, Allen School
+Social Futures Lab, Allen School
 {: .fs-6 .fw-300 }
 
 ---
 
-| For this project, I am working with Ph.D. student Jim (Quanze) Chen and PI Amy Zhang. It is still in progress with forecasted completion by December 2022. |
+Paper is in submission to IJCAI.
 
 Medical imaging is essential to timely and accurate medical diagnosis and prognosis. A wide number of noninvasive or minimally invasive imaging methods -- such as X-rays, Medical Resonance Imaging (MRI) scans, and Computed Tomography (CT) scans -- can capture the internal state of bodily systems along a large range of scales. Moreover, imaging techniques such as electron microscopy are also of significance to non-medical biological studies. Often, it is inefficient, time-consuming, or laborious for humans to manually identify features of interest, such as lesions, particular cell types, and other biological structures or aberrations in these scans. This is especially the case for high-resolution three-dimensional scans and features of interest which are very small in size compared to the field captured by the image(s). For this reason, there has long been interest in applying computer vision to medical imaging. Deep learning models have somewhat recently been applied to more challenging medical imaging problems which previous 'manual' computer vision approaches struggle on, including semantic segmentation. The standard objective of semantic segmentation is to associate each pixel in an input image with a class. Semantic segmentation is often used to automatically detect and 'draw'/'outline' features of interest by classifying each pixel of the image as belonging to a feature of interest or not. Such deep learning models have applications in the automated detection and precise localization of cells, lesions, tumors, and other specific biological structures.
 
