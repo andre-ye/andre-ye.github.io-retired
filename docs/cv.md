@@ -8,10 +8,19 @@ permalink: /docs/cv
 
 # Curriculum Vitae
 
-Relevant Experience and Skills
-{: .fs-6 .fw-300 }
+<!--Relevant Experience and Skills
+{: .fs-6 .fw-300 }-->
 
 <!-- *View a compact resume PDF [here](https://andre-ye.github.io/files/personal/Ye_Andre_Resume_22_23_cycle.pdf){:target="_blank"}*. -->
+
+---
+
+- [Education](#education)
+- [Research Work](#research-work]
+- [TAing](#taing)
+- [Publishing and Writing Work](#publishing-and-writing-work)
+- [Miscellaneous Work](#miscellaneous-work)
+- [For Fun: Competitions and Awards](#for-fun-competitions-and-awards)
 
 ---
 
@@ -98,12 +107,17 @@ TA'd [CSE 163: Intermediate Data Programming](https://andre-ye.github.io/uni/uni
 ### Deep Learning Author, Apress and Packt
 Authored two books with Apress, currently writing one more with Apress and another with Packt.
 
-### Technical Reviewer, Apress and Packt
+### Technical Reviewer
 *November 2021 - Present*
 
-- Testing code, determining the accuracy of author content, and making revisions and suggestions to increase
-clarity and communication in data science books. Currently reviewing: *Building Data Science Solutions with
-Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intelligence* by Apress.
+Testing code, determining the accuracy of author content, and making revisions and suggestions to increase clarity and communication in data science books.
+
+I've served as a/the reviewer for the following books:
+- *Building Data Science Solutions with Anaconda*, Packt
+- *Deep Learning Model Optimization with Neural Network Intelligence*, Apress
+
+Article reviews:
+- "Structure-Based Hyperparameter Selection with Bayesian Optimization in Multidimensional Scaling", Statistics and Computing (Springer).
 
 ### Data Science Writer, Medium
 *March 2020 - April 2021*
@@ -113,7 +127,7 @@ Anaconda by Packt*, Deep Learning Model Optimization with *Neural Network Intell
 - Contracted to write data science articles for machine learning companies and organizations like Neptune.AI.
 - Served as Editor of Data Science and AI Content of The Data-Driven Investor, an online publication that delivers content to several dozen thousand readers in 95 countries daily.
 
-## Miscellaneous
+## Miscellaneous Work
 
 ### Food Server, McDonald's
 *January 2023 - Present*
