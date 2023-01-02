@@ -1,13 +1,10 @@
 
-<!--
----
 layout: default
 title: Involvements
 nav_order: 4
+include_nav: false
 has_children: true
 permalink: /docs/involvements
----
--->
 
 # Involvements
 
