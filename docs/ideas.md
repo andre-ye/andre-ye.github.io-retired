@@ -2,7 +2,7 @@
 layout: default
 title: Ideas
 nav_order: 100
-nav_exclude: false
+nav_exclude: true
 search_exclude: false
 ---
 
