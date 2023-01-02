@@ -19,7 +19,7 @@ Relevant Experience and Skills
 Currently pursuing the following programs. 
 - Bachelor of Arts degree with a major in Philosophy (focus: ethics, metaphysics, formal and social epistemology)
 - Bachelor of Arts degree with a major in Comparative History of Ideas (focus: critical theory, labor)
-- Bachelor of Science degree with a major in Computer Science (focus: theory, ML)
+- Bachelor of Science degree with a major in Computer Science (focus: theory, deep learning, vision understanding)
 - Minor in Russian language
 - Minor in math (focus: abstract algebra)
 - [Early Entrance Program](https://robinsoncenter.uw.edu/programs/transition-school/){:target="_blank"}, skipped high school
