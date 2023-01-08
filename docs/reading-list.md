@@ -23,6 +23,7 @@ Updated every month or so.
 
 Deep Learning Theory ("Theory" 😉)
 - ["Beyond Neural Scaling Laws: Beating Power Law Scaling via Data Pruning"](https://arxiv.org/pdf/2206.14486.pdf){:target="_blank"} by Ben Sorscher, Robert Geirhos, Shashank Shekhar, Surya Ganguli, Ari Morcos
+- ["The Forward-Forward Algorithm: Some Preliminary Investigations"](https://www.cs.toronto.edu/~hinton/FFA13.pdf){:target="_blank"} by Geoffrey Hinton
 - ["Learning in High Dimension Always Amounts to Extrapolation"](https://arxiv.org/pdf/2110.09485.pdf){:target="_blank"} by Randall Balestriero, Jerome Pesenti, and Yann LeCun
 - ["The Lottery Ticket Hypothesis"](https://arxiv.org/pdf/1803.03635.pdf){:target="_blank"} by Jonathan Frankle and Michael Carbin
 - ["Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask"](https://arxiv.org/pdf/1905.01067.pdf){:target="_blank"} by Hattie Zhou et al.
@@ -86,14 +87,17 @@ Shameless Self-Promotion
 
 <!--View my writings and notes on books [here](https://andre-ye.github.io/pub/){:target="_blank"}.-->
 
-Currently (Actively) Reading
+Currently Reading
+- *On the Suffering of the World* by Arthur Schopenhauer
 - *The Sublime Object of Ideology* by Slavoj Zizek
-- *The Idiot* by Fyodor Dostoevsky
 - *Queer Phenomenology* by Sara Ahmed
 - *Bad Gays* by Huw Lemmey and Ben Miller
-- *Capital* by Karl Marx
+
+Pretending to be Currently Reading
 - *Tender is the Flesh* by Agustina Bazterrica
+- *Capital* by Karl Marx
 - *Of Grammatology* by Derrida
+- *The Idiot* by Fyodor Dostoevsky
 
 Critical Theory
 - ["The Revolt of the Salaried Bourgeoisie"](https://www.lrb.co.uk/the-paper/v34/n02/slavoj-zizek/the-revolt-of-the-salaried-bourgeoisie){:target="_blank"}, Slavoj Žižek
@@ -106,7 +110,7 @@ Metaphysics
 - *Being and Time* by Martin Heidegger
 - *Phenomenology of the Spirit* by Georg Hegel
 
-Structuralism, Postmodernity, Post-structuralism
+Postmodernism, Post-structuralism
 - *Discipline and Punish* by Michel Foucault
 - *The History of Sexuality* by Michel Foucault
 - _Of Grammatology_ by Jacques Derrida
