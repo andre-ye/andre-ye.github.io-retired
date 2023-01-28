@@ -11,13 +11,13 @@ permalink: /reading-list
 A growing collection of papers, articles, books, literature, and poetry I recommend[^1]
 {: .fs-6 .fw-300 }
 
-By topic: [AI](#ai), [Philosophy](#philosophy), [Fiction](#fiction), [Film](#film)
+By topic: [Deep Learning](#deep-learning), [Philosophy](#philosophy), [Fiction](#fiction), [Film](#film)
 
 Updated every month or so.
 
 ---
 
-## AI
+## Deep Learning
 
 *See an additional curated list of great papers discussed in my first book as case studies [here](https://andre-ye.github.io/docs/books/modern-deep-learning/#case-study-papers){:target="_blank"}.*
 
@@ -88,20 +88,20 @@ Shameless Self-Promotion
 <!--View my writings and notes on books [here](https://andre-ye.github.io/pub/){:target="_blank"}.-->
 
 Currently Reading
+- *The Poverty of Ethics* by Anat Amar
 - *On the Suffering of the World* by Arthur Schopenhauer
-- *The Sublime Object of Ideology* by Slavoj Zizek
 - *Queer Phenomenology* by Sara Ahmed
+- *Silicon Valley of Dreams* by David Pellow and Lisa Sun-Hee Park
 - *Bad Gays* by Huw Lemmey and Ben Miller
 
 Pretending to be Currently Reading
-- *Tender is the Flesh* by Agustina Bazterrica
 - *Capital* by Karl Marx
 - *Of Grammatology* by Derrida
-- *The Idiot* by Fyodor Dostoevsky
+- *The Sublime Object of Ideology* by Slavoj Zizek
 
-Critical Theory
-- ["The Revolt of the Salaried Bourgeoisie"](https://www.lrb.co.uk/the-paper/v34/n02/slavoj-zizek/the-revolt-of-the-salaried-bourgeoisie){:target="_blank"}, Slavoj Žižek
-- ["A Cyborg Manifesto"](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf){:target="_blank"} by Donna Haraway
+Next on the reading List
+- *Full Surrogacy Now* by Sophie Lewis
+- *The Politics of Friendship* by Jacques Derrida
 
 Metaphysics
 - *Sex and the Failed Absolute* by Slavoj Žižek
@@ -116,6 +116,7 @@ Postmodernism, Post-structuralism
 - _Of Grammatology_ by Jacques Derrida
 - ["Ideology and Ideological State Apparatuses"](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm){:target="_blank"} by Louis Althusser
 - *Simulacra and Simulation* by Jean Baudrilliard
+- ["A Cyborg Manifesto"](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf){:target="_blank"} by Donna Haraway
 
 Capitalism, Marxism, and Post-Marxism
 - *Capital: A Critique of Political Economy* (Vol. I) by Karl Marx
@@ -125,6 +126,7 @@ Capitalism, Marxism, and Post-Marxism
 - *Signs and Machines: Capitalism and the Production of Subjectivity* by Maurizio Lazzarato
 - [*Marxism and Literature*](http://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfm9zBHlJ6w8.pdf){:target="_blank"} by Raymond Williams
 - *Intersectional Class Struggle: Theory and Practice* by Michael Reagan
+- ["The Revolt of the Salaried Bourgeoisie"](https://www.lrb.co.uk/the-paper/v34/n02/slavoj-zizek/the-revolt-of-the-salaried-bourgeoisie){:target="_blank"}, Slavoj Žižek
 
 Technological Philosophy
 - *Robot Rights* by David J. Gunkel
@@ -156,6 +158,15 @@ Aesthetics
 
 ## Fiction
 
+Currently Reading
+- *Пресупление и Наказание* by Феодор Достоевкий
+- *The Idiot* by Fyodor Dostoevsky
+- *The Deep* by Rivers Solomon
+
+Pretending to be Currently Reading
+- *Tender is the Flesh* by Agustina Bazterrica
+
+Read
 - *Infinite Jest* by David Foster Wallace
 - *Never Let Me Go* by Kazuo Ishiguro
 - *Crime and Punishment* by Fyodor Dostoevsky
@@ -166,6 +177,7 @@ Aesthetics
 ---
 
 ## Film
+- *The Menu*
 - *Synecdoche: New York*
 - *The Rehearsal*
 - *2001: A Space Odyssey*
@@ -175,6 +187,11 @@ Aesthetics
 - *Ex Machina*
 - *Everything Everywhere All At Once*
 - *Parasite*
+
+Next to be evaluated:
+- *Firebird*
+- *Tar*
+- *Triangle of Sadness*
 
 ---
 
