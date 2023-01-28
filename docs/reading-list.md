@@ -8,7 +8,7 @@ permalink: /reading-list
 
 # Reading List
 
-A growing collection of papers, articles, books, literature, and poetry I recommend[^1]
+A growing collection of papers, articles, books, literature I enjoy & recommend[^1]
 {: .fs-6 .fw-300 }
 
 By topic: [Deep Learning](#deep-learning), [Philosophy](#philosophy), [Fiction](#fiction), [Film](#film)
@@ -51,7 +51,8 @@ Computer Vision
 - ["Feature Visualization"](https://distill.pub/2017/feature-visualization/){:target="_blank"} by Chris Olah et al.
 - ["ResMLP: Feedforward networks for image classification with data-efficient training"](https://arxiv.org/abs/2105.03404){:target="_blank"}
 
-Natural Language Processing
+Language Modeling
+- ["Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers"](https://arxiv.org/pdf/2212.10559.pdf){:target="_blank"} by Damai Dai et al.
 - ["Task-Aware Representation of Sentences for Generic Text Classification"](https://kishaloyhalder.github.io/pdfs/tars_coling2020.pdf){:target="_blank"} by Kishaloy Halder et al.
 - ["General-Purpose Question-Answering with MACAW"](https://arxiv.org/pdf/2109.02593.pdf){:target="_blank"} by Oyvind Tafjord et al.
 - ["Single Headed Attention RNN: Stop Thinking With Your Head"](https://arxiv.org/abs/1911.11423){:target="_blank"} by Stephen Merity
@@ -78,8 +79,7 @@ Meta Stuff
 Shameless Self-Promotion
 - [*Modern Deep Learning Design and Application Development*](https://link.springer.com/book/10.1007/978-1-4842-7413-2){:target="_blank"} by Andre Ye
 - *Deep Learning for Tabular Data* by Andre Ye and Andy Wang
-- *Artificial Intelligence: An Accessible Approach* by Andre Ye and Alec Bunn
-- *Curriculum Learning* by Andre Ye
+
 
 ---
 
