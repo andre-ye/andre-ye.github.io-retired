@@ -8,10 +8,10 @@ permalink: /reading-list
 
 # Reading List
 
-A growing collection of papers, articles, books, literature I enjoy & recommend[^1]
+A growing collection of papers, articles, books, literature, and ideas I enjoy & recommend[^1]
 {: .fs-6 .fw-300 }
 
-By topic: [Deep Learning](#deep-learning), [Philosophy](#philosophy), [Fiction](#fiction), [Film](#film)
+By topic: [Deep Learning](#deep-learning), [Philosophy](#philosophy), [Fiction](#fiction), [Film](#film), [Concepts](#concepts)
 
 Updated every month or so.
 
@@ -187,12 +187,19 @@ Read
 - *Ex Machina*
 - *Everything Everywhere All At Once*
 - *Parasite*
+- *Triangle of Sadness*
 
 Next to be evaluated:
 - *Firebird*
 - *Tar*
-- *Triangle of Sadness*
 
+---
+
+## Concepts
+
+| Speculative Design | A critical and future-oriented approach to design which rethinks the categories of the imaginable and the real. |
+| Diagesis | Material which is experienceable by characters within a narrative -- story, film, etc. |
+| Synedoche | A part which represents a whole, such as the wheels of a bus or the head of a person. |
 ---
 
 [^1]: ...but do not necessarily endorse or agree with.
