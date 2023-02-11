@@ -179,7 +179,6 @@ Read
 ## Film
 - *The Menu*
 - *Synecdoche: New York*
-- *The Rehearsal*
 - *2001: A Space Odyssey*
 - *Interstellar*
 - *A Quiet Place*
@@ -188,18 +187,21 @@ Read
 - *Everything Everywhere All At Once*
 - *Parasite*
 - *Triangle of Sadness*
+- *Tár*
 
 Next to be evaluated:
 - *Firebird*
-- *Tar*
+- *All Quiet on the Western Front*
 
 ---
 
 ## Concepts
+- Speculative design
+- Diagesis / diagetic
+- Synecdoche
+- Dialectic
+- Deferred meaning
 
-| Speculative Design | A critical and future-oriented approach to design which rethinks the categories of the imaginable and the real. |
-| Diagesis | Material which is experienceable by characters within a narrative -- story, film, etc. |
-| Synedoche | A part which represents a whole, such as the wheels of a bus or the head of a person. |
 ---
 
 [^1]: ...but do not necessarily endorse or agree with.
