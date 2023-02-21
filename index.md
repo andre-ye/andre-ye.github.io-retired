@@ -23,7 +23,7 @@ Undergraduate, UW.
 
 <br>
 
-**👋 Hey there! I'm Andre.** I am majoring in philosophy, comparative history of ideas, and computer science. My research interests in deep learning include vision understanding, curriculum learning, and human-AI interaction; in philosophy: virtual labor and the phenomenology of digital spaces, with broader passions for critical theory, social epistemology, (post-)structuralism, and (post-)Marxism. Currently, I am a research assistant in the **Social Futures Lab**. I also TA for an English courses at the UW and am a food server at McDonald's. My email is `andreye at uw dot edu`.
+**👋 Hey there! I'm Andre.** I am majoring in philosophy and computer science, minoring in Russian. My research interests in in philosophy: the phenomenology and metaphysics of digital spaces (and their implications for ethics, labor, and political economy in the virtual), with broader passions for critical theory, (post-)structuralism, and (post-)Marxism; in deep learning: vision understanding, curriculum learning, and human-AI interaction. Currently, I am involved in research with Prof. Ranjay Krishna (CSE), Prof. Amy Zhang (CSE), and Prof. Conor Mayo-Wilson (Philosophy). I also TA for an English courses at the UW. My email is `andreye at uw dot edu`.
 
 ---
 
