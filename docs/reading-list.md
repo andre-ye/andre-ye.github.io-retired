@@ -107,8 +107,11 @@ Metaphysics
 - *Sex and the Failed Absolute* by Slavoj Žižek
 - *Absolute Recoil: Towards a New Foundation of Dialectical Materialism* by Slavoj Žižek
 - *Introduction to Metaphysics* by Martin Heidegger
-- *Being and Time* by Martin Heidegger
-- *Phenomenology of the Spirit* by Georg Hegel
+
+Ethics
+- "Modern Moral Philosophy", Elizabeth Anscombe
+- *The Poverty of Ethics*, Anat Matar
+- *Sex and the Failed Absolute* by Slavoj Žižek
 
 Postmodernism, Post-structuralism
 - *Discipline and Punish* by Michel Foucault
@@ -177,6 +180,7 @@ Read
 ---
 
 ## Film
+- *Brokeback Mountain*
 - *The Menu*
 - *Synecdoche: New York*
 - *2001: A Space Odyssey*
@@ -189,9 +193,10 @@ Read
 - *Triangle of Sadness*
 - *Tár*
 
-Next to be evaluated:
+Next up:
 - *Firebird*
 - *All Quiet on the Western Front*
+- *Summer of '85*
 
 ---
 
