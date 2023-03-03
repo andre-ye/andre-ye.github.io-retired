@@ -11,7 +11,7 @@ permalink: /reading-list
 A growing collection of papers, articles, books, literature, and ideas I enjoy & recommend[^1]
 {: .fs-6 .fw-300 }
 
-By topic: [Deep Learning](#deep-learning), [Philosophy](#philosophy), [Fiction](#fiction), [Film](#film), [Concepts](#concepts)
+By topic: [Deep Learning](#deep-learning), [Philosophy](#philosophy), [Fiction](#fiction), [Film](#film), [Words](#words)
 
 Updated every month or so.
 
@@ -180,7 +180,12 @@ Read
 ---
 
 ## Film
+Ultimate Favorites
+- *Summer of '85*
 - *Brokeback Mountain*
+- *Parasite*
+
+Pretty Good
 - *The Menu*
 - *Synecdoche: New York*
 - *2001: A Space Odyssey*
@@ -189,23 +194,13 @@ Read
 - *Call Me By Your Name*
 - *Ex Machina*
 - *Everything Everywhere All At Once*
-- *Parasite*
 - *Triangle of Sadness*
 - *Tár*
 
-Next up:
-- *Firebird*
-- *All Quiet on the Western Front*
-- *Summer of '85*
-
 ---
 
-## Concepts
-- Speculative design
-- Diagesis / diagetic
-- Synecdoche
-- Dialectic
-- Deferred meaning
+## Words
+Speculative, diagesis / diagetic, synecdoche, dialectic, Hegelian triad, deferred meaning, trace, differance, deconstruction, queer, gender, performativity, construction, constructivism, cybernetic, apotheosis, subaltern
 
 ---
 
