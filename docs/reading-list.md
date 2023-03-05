@@ -159,31 +159,12 @@ Aesthetics
 
 ---
 
-## Fiction
-
-Currently Reading
-- *Пресупление и Наказание* by Феодор Достоевкий
-- *The Idiot* by Fyodor Dostoevsky
-- *The Deep* by Rivers Solomon
-
-Pretending to be Currently Reading
-- *Tender is the Flesh* by Agustina Bazterrica
-
-Read
-- *Infinite Jest* by David Foster Wallace
-- *Never Let Me Go* by Kazuo Ishiguro
-- *Crime and Punishment* by Fyodor Dostoevsky
-- *A Clockwork Orange* by Anothony Burgess
-- *Call Me By Your Name* by Andre Aciman
-- ["Pale Horse, Pale Rider"](https://ia801602.us.archive.org/2/items/in.ernet.dli.2015.184599/2015.184599.Pale-Horse-pale-Rider.pdf){:target="_blank"} by Katherine Anne Porter
-
----
-
 ## Film
 Ultimate Favorites
 - *Summer of '85*
 - *Brokeback Mountain*
 - *Parasite*
+- *La La Land*
 
 Pretty Good
 - *The Menu*
@@ -193,9 +174,33 @@ Pretty Good
 - *A Quiet Place*
 - *Call Me By Your Name*
 - *Ex Machina*
+- *The White Lotus*
 - *Everything Everywhere All At Once*
 - *Triangle of Sadness*
 - *Tár*
+
+---
+
+## Fiction
+
+Currently Reading
+- *The Idiot* by Fyodor Dostoevsky
+- *The Deep* by Rivers Solomon
+
+Pretending to be Currently Reading
+- *Tender is the Flesh* by Agustina Bazterrica
+- *The Idiot* by Fyodor Dostoevsky
+
+Read
+- *Crime and Punishment* by Fyodor Dostoevsky
+- *The Deep* by Rivers Solomon
+- *Infinite Jest* by David Foster Wallace
+- *Never Let Me Go* by Kazuo Ishiguro
+- *Crime and Punishment* by Fyodor Dostoevsky
+- *A Clockwork Orange* by Anothony Burgess
+- *Call Me By Your Name* by Andre Aciman
+
+---
 
 ---
 
