@@ -103,6 +103,7 @@ Next on the reading List
 - *Full Surrogacy Now* by Sophie Lewis
 - *The Politics of Friendship* by Jacques Derrida
 
+<!--
 Metaphysics
 - *Sex and the Failed Absolute* by Slavoj Žižek
 - *Absolute Recoil: Towards a New Foundation of Dialectical Materialism* by Slavoj Žižek
@@ -134,8 +135,6 @@ Capitalism, Marxism, and Post-Marxism
 Technological Philosophy
 - *Robot Rights* by David J. Gunkel
 - *Robot Sex: Social and Ethical Implications*, edited by John Danaher and Neil McArthur
-- *Quantum Entanglement* by Jed Brody
-- *AI Ethics* by Mark Coeckelbergh
 
 Epistemology and Mathematics
 - _Introduction to the Philosophy of Mathematics_ by Bertrand Russell
@@ -156,6 +155,7 @@ Pedagogy, Metaphilosophy
 Aesthetics
 - *Speculative Aesthetics*, edited by Robin Mackay et al.
 - *Aesthetics Equals Politics: new discourses across art, architecture, and philosophy*, edited by Mark Foster Gage
+-->
 
 ---
 
@@ -163,8 +163,8 @@ Aesthetics
 Ultimate Favorites
 - *Summer of '85*
 - *Brokeback Mountain*
-- *Parasite*
 - *La La Land*
+- *Parasite*
 
 Pretty Good
 - *The Menu*
@@ -184,28 +184,17 @@ Pretty Good
 ## Fiction
 
 Currently Reading
-- *The Idiot* by Fyodor Dostoevsky
-- *The Deep* by Rivers Solomon
+- None :(
 
-Pretending to be Currently Reading
+Pretending to be Currently (Re-)Reading
 - *Tender is the Flesh* by Agustina Bazterrica
 - *The Idiot* by Fyodor Dostoevsky
+- *Infinite Jest* by David Foster Wallace
 
-Read
+The Good Stuff
 - *Crime and Punishment* by Fyodor Dostoevsky
-- *The Deep* by Rivers Solomon
 - *Infinite Jest* by David Foster Wallace
 - *Never Let Me Go* by Kazuo Ishiguro
-- *Crime and Punishment* by Fyodor Dostoevsky
-- *A Clockwork Orange* by Anothony Burgess
-- *Call Me By Your Name* by Andre Aciman
-
----
-
----
-
-## Words
-Speculative, diagesis / diagetic, synecdoche, dialectic, Hegelian triad, deferred meaning, trace, differance, deconstruction, queer, gender, performativity, construction, constructivism, cybernetic, apotheosis, subaltern
 
 ---
 
