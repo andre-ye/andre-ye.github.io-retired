@@ -18,8 +18,8 @@ Presentations, talks, books, essays
 - *Efficient Deep Learning at Scale with Curriculum learning*. Published with Packt. Projected late 2023 release. -->
 
 ## Research in Deep Learning
-- "Confidence Contours: Uncertainty-Aware Annotation for Medical Semantic Segmentation". Andre Ye, Quanze (Jim) Chen (PhD student mentor), Amy Zhang (faculty advisor). In submission to IJCAI 2023.
-- "Emergent Language: Independent AI Development of Human-Like Language". Research performed with Interactive Intelligence. Discovering AI @ UW Conference, May 23rd. Poster presentation. [PDF](){:target="_blank"}.
+- "Confidence Contours: Uncertainty-Aware Annotation for Medical Semantic Segmentation". Andre Ye, Quanze (Jim) Chen (PhD student mentor), Amy Zhang (faculty advisor). In submission to IJCAI 2023. [Preprint](https://andre-ye.github.io/files/Confidence_Contours__IJCAI____Personal.pdf){:target="_blank"}.
+- "Emergent Language: Independent AI Development of Human-Like Language". Research performed with Interactive Intelligence. Discovering AI @ UW Conference, May 23rd. Poster presentation.
 - "A Novel Approach to Segment Specialized Annotations in Electron Microscopy Images of Glomerular Podocytes". Research performed with Najafian Lab for the Pathobiology of Kidney Diseases, UW Medicine. 25th Undergraduate Research Symposium at the University of Washington, May 20th. Oral presentation. [Session Proceedings](https://expo.uw.edu/expo/apply/635/proceedings/offering_session/1374){:target="_blank"}. [Slides](https://andre-ye.github.io/files/najafian/URP%20Presentation.pdf){:target="_blank"}.
 
 Books
@@ -36,5 +36,7 @@ Books
 - [Mobiod Streams](https://andre-ye.github.io/mobiod-streams/){:target="_blank"}. A digital take on the phenomenology of text.
 - [tserk – цирк(овь)](https://andre-ye.github.io/tserk/){:target="_blank"}. An AI art gallery shows us what it means to be presymbolic *after* the symbolic.
 
+## Misc.
+- [AyahuascaNet: Rigorously Investigating Hallucination in Large Language Models with Hardcore Psychedelic Drugs](https://andre-ye.github.io/files/SIGBOVIK_2023.pdf){:target="_blank"}. SIGBOVIK '23.
 
 
